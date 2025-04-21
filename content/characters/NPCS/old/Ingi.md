@@ -1,0 +1,3 @@
+Seemingly unimportant worker on the dig. Was pulling a raft of supplies when attacked by carnivorous fish. Nihaya ordered him to raise his arm (where the fish were attacking) out of the water, and then smote the fish.
+
+This was brought up in the evening with [[Satara]] and [[Nihaya Nadhirtan|Nihaya]]. Satara suggested it may have been caused by divine intervention (although she did not believe this herself).
