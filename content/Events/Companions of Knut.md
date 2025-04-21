@@ -131,7 +131,7 @@ The next morning it's raining heavily, so we stay in the inn to wait. Astrid ove
 
 Jago chats up the owner (who is a barmaid?) and they fuck for pretty much the entire day.
 
-At some point, a very wet courier arrives with metal tubes full of paper. He takes out one, but it's been damaged by the rain. Poleman goes over to take a look, and notices it's a wanted poster for [[Jovian Palantina|Jovian]]. Aiases include "the mad woodsman", the picture is of a much younger man with wrinkles added, crimes include being a [[Krozin, lord of chains||Krozen]] worshipping mage, and it notes that they are travelling with others in a black caravan.
+At some point, a very wet courier arrives with metal tubes full of paper. He takes out one, but it's been damaged by the rain. Poleman goes over to take a look, and notices it's a wanted poster for [[Jovian Palantina|Jovian]]. Aliases include "the mad woodsman", the picture is of a much younger man with wrinkles added, crimes include being a [[Krozin, lord of chains|Krozin]] worshipping mage, and it notes that they are travelling with others in a black caravan.
 
 Poleman attempts to salvage the poster, but the ink runs due to the water and it's only made worse. The courier remarks that he's paid a bronze per poster put up, and that this one was added at the last minute by the Western Legion. 
 
@@ -159,3 +159,15 @@ The party becomes suspicious there's some kind of magic on the grounds making ev
 
 The daughters (who all look like faeries) arrive and start mingling. We catch one of them and she says that her father is too unwell to give his planned speech, but, noting that we look like the adventurous sort, suggests she might lead us to him. Poleman wants to go but is already drunk off of the free beer, and everyone other than Jovian is too suspicious to enter the manor, so she takes Jovian alone, as a representative for the party.
 
+- lots of magic in the throne room
+- lord has a very clearly magic ring on
+- lord denies all knowledge of magic (did he say anything about his ancestors or was that a bit? i forget)
+- says the land is cursed and sucks and we should find out why
+- he'll pay quite a lot for any actionable info, and a very large amount (plus probably land/title) for solving the problem entirely
+- suggests we start by looking into a single logging village within the swamp which hasn't been abandoned even though all other settlements nearby have been
+
+Astrid gets super freaked out by how everyone who's partaken of the feast wants to move around a lot and not stay with the same group for very long.
+
+We sleep around the caravan uneventfully i think
+
+---
