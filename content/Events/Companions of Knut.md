@@ -168,6 +168,4 @@ The daughters (who all look like faeries) arrive and start mingling. We catch on
 
 Astrid gets super freaked out by how everyone who's partaken of the feast wants to move around a lot and not stay with the same group for very long.
 
-We sleep around the caravan uneventfully i think
-
----
+We sleep around the caravan uneventfully i think.
