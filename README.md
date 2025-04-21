@@ -1,18 +1,11 @@
-# Quartz v4
+# SoF Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is where I keep the notes for the Soldiers of Fortune campagins I'm in. 
+They're pretty rough, because they're notes, but hopefully usefull to someome (or just a nice thing to look back on).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Contributing
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+If you're in the campaign with me and want to contribute, send me a message on discord and I'll either add the note manually,
+or you can submit a PR (all the notes are in the content folder, you shouldn't need to touch anything else)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Made using [Quartz](https://quartz.jzhao.xyz/).
