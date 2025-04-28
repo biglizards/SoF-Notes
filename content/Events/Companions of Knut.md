@@ -1,5 +1,6 @@
 Jovian Palantina - the mendicant
 Aethild - the baneman
+Jago and Juevo
 
 **Mara 10th of summer**
 
@@ -162,10 +163,55 @@ The daughters (who all look like faeries) arrive and start mingling. We catch on
 - lots of magic in the throne room
 - lord has a very clearly magic ring on
 - lord denies all knowledge of magic (did he say anything about his ancestors or was that a bit? i forget)
-- says the land is cursed and sucks and we should find out why
-- he'll pay quite a lot for any actionable info, and a very large amount (plus probably land/title) for solving the problem entirely
+- says the land is cursed and sucks and we should find out why, and this has been going on for at least a few months now
+- he'll pay 12 silver for any actionable info, and a 60s (plus land/title) for solving the problem entirely
 - suggests we start by looking into a single logging village within the swamp which hasn't been abandoned even though all other settlements nearby have been
 
 Astrid gets super freaked out by how everyone who's partaken of the feast wants to move around a lot and not stay with the same group for very long.
 
-We sleep around the caravan uneventfully i think.
+We sleep around the caravan. during the night, [[Aggie Wargson]] (a jewler who had traveled with us from the inn) arrives and sleeps next to us.
+
+---
+
+**Talia, 11th of Summer**
+
+[[Aggie Wargson|Aggie]] is described as a "canny acquisitor". She's got an offer of sponsorship from two of the sisters, and might stay in the manor if she can't set up a shop in Duruza. 
+
+[[Rustia Criola de Mervil]] comes up and informs her that her room is ready and she's still on for lunch. She professes to the party that she is an Accorder, and that her father has taken the wrong approach in solving the curse. She offers to fetch a herbalist/cleric who had been thrown out of the manor for voicing his opinion.
+
+The herbalist's name is [[Serego of Matrica]]. Says the curse has been going on for a year, and that coincides with a specific event: the raids on the western coast, Bjarni's Blood Brothers. He asserts that they bring the curse with them, like a plague. 
+
+Curse symptoms (described by various people):
+- torrential rains (possibly orod tast magic)
+- more monsters in the bog, and disappearances, than usual
+- tax
+- not enough food
+- roads are out, not enough supplies
+- all the villages are abandoned
+
+We learn that the bog monsters are bog ghasts, created when travellers in the moors get trapped in the mud and die. it is said they are possessed by bestial spirits of the land, giving them the head of a dog but the cunning of a man. Myths about these are common in the marshes, and sightings are rare but not unheard of.
+
+Aethild asks Serego about potion recipes, and he says he'll compile some for when we get back.
+
+Jovian performs a rite of safe passage so that we may pass through the swamp unhindered. The sloshing mud is turned, at least for those on foot. We cover the carriages to hide them, and leave Jago, his companion, and the children to guard as the rest of us press onwards.
+
+in the town there's a lot of peat diggers, and some work ongoing to repair houses which are slightly askew (falling into the bog maybe). Fine Pete suggests we're not the first people to come here for the lord. Aethild punches him in the face, and they argue for a bit. We go to see the alderman instead. one of the townsfolk shouts that Hirumaya (the current empress) is his favourite god.
+
+the alderman describes the curse as about what we expect, and says it's been going on for at least 7 or 8 months, but some folks say it's been going for longer. He invites us in, and asks us to take our boots off to avoid tracking mud in. He identifies himself as Delcin de Galimari.
+
+He doesn't actually have much more info. Doesn't believe in curses. It's all just a run of bad luck. Metis, the most recently abandoned town, is a special case. It doesn't look like they took their things, there's signs of fighting, and no-one from there has been seen dead or alive. It was mostly abandoned already, though.
+
+Jovian heard that people of Corvinum had been having visions, and asks the Alderman if he can speak to any. He is referred to an old reclusive lady, [[Livia de Vergo]], who the Alderman warns is crazy. She accuses Delcin as having mislead us intentionally. She says the curse is upon Don Mervil and his people, and looking at the land for the source of the curse is therefore fruitless.
+
+She had previously worked for [[Anatona de Mervil]] as a maid. She was kind, but the house had financial troubles. When his wife died, [[Ludovic de Mervil]] set out on a business trip lasting 3 years. He came back with a deal (providing a steady flow of income, source unknown) and a daughter, but was now cold and ruthless. He took charge from his mother, and got put in charge of the finances. A month later, Anatona fell suddenly ill and died, but the Don didn't seem to care. All staff were fired.
+
+Something was going on - carts coming in with stone, going out with dirt (some kind of secret basement? no visible construction works).
+
+The youngest daughter has flowing golden hair, in contrast to the other two. nettie and corly are childhood nicknames for the elder two daughters. toy soldiers, war in the dining room over the dining table. nettie pulled the tablecloth and broke a fine crystal glass.
+
+She says the ring is black, but it's actually yellow. The other details match up, so it seems like the ring changed over time.
+
+Leading theory: the youngest daughter is some kind of demon/vampire, and is either puppeting the don or has similarly corrupted him (with the ring?).
+
+We head to Metis to look for clues. Jovian and Aethild have the ultimate goal of returning to the manor, getting an audience with the ~~archdruid~~ Don, and somehow resolving the curse (via exorcism, cutting off the ring-hand, or just killing him).
+
