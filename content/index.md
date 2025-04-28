@@ -1,6 +1,5 @@
 ---
 title: Homepage
-tags:
 ---
 
 <marquee>hi welcome to my web page</marquee>
