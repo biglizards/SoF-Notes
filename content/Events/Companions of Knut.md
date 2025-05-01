@@ -215,3 +215,52 @@ Leading theory: the youngest daughter is some kind of demon/vampire, and is eith
 
 We head to Metis to look for clues. Jovian and Aethild have the ultimate goal of returning to the manor, getting an audience with the ~~archdruid~~ Don, and somehow resolving the curse (via exorcism, cutting off the ring-hand, or just killing him).
 
+---
+
+The marsh appears to be trying to reclaim the road. Metis is a proper village. The grapes on the vineyard are all fresh and ripe and sweet. There's signs of light foraging, presumably from local wildlife.
+
+Astrid gets the feeling that something is watching her from within the town. The doors, where they had locks, have been bashed in by a weapon (eg ax head) from the outside. There's brown stains everywhere, but no bodies. At least one storm has passed since, but they seem relatively recent. Within the houses, pots, linen are overturned but not taken, as if a hurried search was being performed.
+
+There's no signs of clothing, arrows, or weapons at all. There is a lodge dedicated to lustre, the paragon of wine-making. There are no signs of desecration or damage to the contents of the lodge, besides the usual (door broken, personal possessions searched). Notably there's cheap jewellery which has not been taken.
+
+The workshop door is ajar, but does not appear broken. There is a thin peice of twine looped around the inner door handle, trailing off into the darkness. it leads towards a home-made trap composed of three nocked bows. It appears that the trap has not been activated before. The inside of the workshop has been similarly looted. Kegs taken off the wall, wood pried off to access the contents (even though there are obviously taps). There are wine stains everywhere. ALL the wine-making equipment has been taken.
+
+There's a square on the floor conspicuously free of wine stains. the wood here is different from the rest of the floor, and it's very thin and creaks as you put even a small amount of weight on it. There's a pit down there; it's dark and deep and the bottom (2m down) is full of metal (broken armour, tools, anything sharp) pointing upwards. There is a room down there. Poleman sees something move down there.
+
+Poleman conjectures that theses traps were set by some kind of creature, rather than a person. Jovian recalls a great variety of demons (created by Letus) who could match.
+
+We enact a plan: Aethild cries out in pain as if hit by a trap. We hear creaking from the floorboards below, and move quietly into combat positions. Astrid hears a floorboard creak as she steps, tries to correct, knocks over a barrel which was trapped and pulls down an entire shelf of barrels. She tries to dodge away, slips on spilt wine, falling on the ground. A barrel lands on her leg with a cracking sound. Another falls on the ground and splits open, spewing acid around the room. One of the barrels falls down the pit, and an inhuman high-pitched screech echoes through the building. Astrid (who is the only one with the right angle) see three more pairs of yellow eyes through the splintered floorboards. Combat begins.
+
+Aethild recalls the specifics of these creatures. They tend to appear in villages that were raided, the malevolent embodiment of those who used to live here, acting out a mockery of human lives. They are voracious eaters for their size, and love eating things otherwise poisonous or noxious. They are afraid of fire and light. They're called witchlings or bruents.
+
+They're small, about 1m, covered in black fur, yellow eyes and a long purple forked tongue. It's wearing shoes, tied with rope to keep them on, and trousers that are clearly too long for it. 
+
+> mae: we should be careful here - they dont have much health, but worst case scenario they stab jovian, who has 0AV, for 6, triggering a wound, and it's bleeding 
+> Hattie: Jovian is hard to kill. He doesn't need any armour because he's agile - I have 83 dodge.
+
+Jovian walks towards a witchling, and another one pops out, stabbing him for 7 damage in a surprise attack. He gets a bleeding wound, which takes him down to 1hp by the end of the combat before it gets treated.
+
+One of the witchlings eats something fuzzy from its pocket and starts burping a green gas. Its belly expands and bloats.
+
+Astrid kills one with her bow while lying on the ground, Poleman kills two. A witchling outside rolls a cart in front of the door (it had previously prepared some barrels as a buffer stop). Aethild moves it out of the way. Jovian gives Astrid his staff to use as a crutch, and we head outside, having killed most of them.
+
+Jovian's wound is bandaged and stops bleeding. Astrid bundles up her leg in the correct way. Poleman administers a potent aesthetic, then we regroup with the caravan and bunker down inside the most defensible looking house. A table is nailed in front of the doorway, since the door was broken in.
+
+Jovian spends an hour in prayer, then heals himself. He contemplates healing Astrid, but decides against it, as she's not a fervent enough accorder. Poleman and Jovian argue for about half an hour over whether or not it's appropriate to desecrate holy sites because they're following a different religion to you (jovian for, poleman against).
+
+Poleman takes first watch. For about 3 hours, nothing much happens, besides the occasional calls and hoots of the witchlings from across town. Then, a lone horseman, barely visible under the sliver of the almost-new moon, rides through town, stopping to inspect our carriages. Poleman puts out the lantern and watches from a window. The rider moves on, then stops and stares directly at Poleman (who is in total darkness), who is so startled by this he involuntarily gasps.
+
+They're wearing a hooded cloak that goes down to their shoes. No other details could be made out. Poleman hails the rider, who says, in a low husky whisper:
+
+>vulden par g'thrai 
+>tesh kai rat'r
+
+Then, when Poleman asks if they speak varlish, clicks their tongue and leaves. Poleman quickly writes this down, and asks the others if they recognise it. Nobody does, but Jovian, who knows a lot about languages, asserts that it's not related to any northen languages, and so presumably is from the deep south (umber, crown coast, lower grevuldur). It could alternatively be supernatural in origin.
+
+The rest of the watch passes uneventfully.
+
+---
+
+
+**Mara 11th of Summer**
+
