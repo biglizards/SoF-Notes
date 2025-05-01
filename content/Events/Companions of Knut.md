@@ -235,7 +235,8 @@ Aethild recalls the specifics of these creatures. They tend to appear in village
 
 They're small, about 1m, covered in black fur, yellow eyes and a long purple forked tongue. It's wearing shoes, tied with rope to keep them on, and trousers that are clearly too long for it. 
 
-> mae: we should be careful here - they dont have much health, but worst case scenario they stab jovian, who has 0AV, for 6, triggering a wound, and it's bleeding 
+> mae: we should be careful here - they dont have much health, but worst case scenario they stab jovian, who has 0AV, for 6, triggering a wound, and it's bleeding
+> 
 > Hattie: Jovian is hard to kill. He doesn't need any armour because he's agile - I have 83 dodge.
 
 Jovian walks towards a witchling, and another one pops out, stabbing him for 7 damage in a surprise attack. He gets a bleeding wound, which takes him down to 1hp by the end of the combat before it gets treated.
@@ -253,6 +254,7 @@ Poleman takes first watch. For about 3 hours, nothing much happens, besides the 
 They're wearing a hooded cloak that goes down to their shoes. No other details could be made out. Poleman hails the rider, who says, in a low husky whisper:
 
 >vulden par g'thrai 
+>
 >tesh kai rat'r
 
 Then, when Poleman asks if they speak varlish, clicks their tongue and leaves. Poleman quickly writes this down, and asks the others if they recognise it. Nobody does, but Jovian, who knows a lot about languages, asserts that it's not related to any northen languages, and so presumably is from the deep south (umber, crown coast, lower grevuldur). It could alternatively be supernatural in origin.
