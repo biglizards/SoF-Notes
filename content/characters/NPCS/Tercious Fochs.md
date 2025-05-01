@@ -1,0 +1,1 @@
+Author of "on the applications of (dog) tallow in cartography".
