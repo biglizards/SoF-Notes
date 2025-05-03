@@ -8,7 +8,7 @@
 
 participated in:
 - [[The Voyage]]
-- [[Island on fire]]
+- [[An Isle Aflame]]
 - [[Companions of Knut]]
 
 Died on Nashta 10th of Summer 172AL in a dual in Caldis.

@@ -10,15 +10,14 @@ Azuria, Idaia, Beohra, Talia, Mara, Harla and Nashta. 13 weeks in every season.
 
 159AL: great fire of Luruna
 
-~170AL: 
+###### ~170AL: Events of [[The Voyage]] occur
 - Gulla's mock trial following a disastrous voyage
 - empire adopts the white flame accord as an official religion (alongside paragon worship)
 
-Beohra, the 12th of Spring 172AL (aka 150 rising): Events of [[Island on fire]] begin
+###### Beohra, the 12th of Spring 172AL (aka 150 rising): Events of [[An Isle Aflame]] begin
 
-Mara, the 10th of Summer 172AL: Events of [[Companions of Knut]] begin
-
-Nashta 10th of Summer 172AL: [[Karishna]] dies in a dual in Caldis 
+###### Mara, the 10th of Summer 172AL: Events of [[Companions of Knut]] begin
+- Nashta 10th of Summer 172AL: [[Karishna]] dies in a dual in Caldis 
 
 
 
