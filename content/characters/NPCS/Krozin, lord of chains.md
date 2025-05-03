@@ -6,4 +6,4 @@ minor god from [[The Carmine Isles]]. Has something to do with slavery (probably
 
 Thought to have been a giant (or maybe still is?).
 
-A wagon previously belonging to Krozin cultists (containing a mummified human, spices (to cover up the smell) and alchemy equipment in a hidden compartment under the seats) was purchased by the [[Companions of Knut]] in [[Laruna]].
+A wagon previously belonging to Krozin cultists (containing a mummified human, spices (to cover up the smell) and alchemy equipment in a hidden compartment under the seats) was purchased by the [[Companions of Knut]] in [[Luruna]].

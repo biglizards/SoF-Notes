@@ -1,3 +1,3 @@
-Large town a little over a day's travel south of [[Laruna]]. Still pagan, and celebrates a harvest (?) festival honouring the large tree by the banks of the lake north of the town in which participants eat from many dishes passed down tables gradually. Waste/vomit is left on the ground to nourish the roots of the tree.
+Large town a little over a day's travel south of [[Luruna]]. Still pagan, and celebrates a harvest (?) festival honouring the large tree by the banks of the lake north of the town in which participants eat from many dishes passed down tables gradually. Waste/vomit is left on the ground to nourish the roots of the tree.
 
 [[Karishna]] is buried just outside of the  town, between the walls and the bank of the river to the east.

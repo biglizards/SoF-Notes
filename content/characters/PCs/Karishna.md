@@ -11,4 +11,4 @@ participated in:
 - [[An Isle Aflame]]
 - [[Companions of Knut]]
 
-Died on Nashta 10th of Summer 172AL in a dual in Caldis.
+Died on Nashta 10th of Summer 172AL in a duel in Caldis.
