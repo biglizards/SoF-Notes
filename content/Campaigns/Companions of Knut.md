@@ -1,4 +1,4 @@
-Jovian Palantina - the mendicant
+[[Jovian Palantina]] - the mendicant
 Aethild - the baneman
 Jago and Juevo
 
@@ -229,7 +229,7 @@ There's a square on the floor conspicuously free of wine stains. the wood here i
 
 Poleman conjectures that theses traps were set by some kind of creature, rather than a person. Jovian recalls a great variety of demons (created by Letus) who could match.
 
-We enact a plan: Aethild cries out in pain as if hit by a trap. We hear creaking from the floorboards below, and move quietly into combat positions. Astrid hears a floorboard creak as she steps, tries to correct, knocks over a barrel which was trapped and pulls down an entire shelf of barrels. She tries to dodge away, slips on spilt wine, falling on the ground. A barrel lands on her leg with a cracking sound. Another falls on the ground and splits open, spewing acid around the room. One of the barrels falls down the pit, and an inhuman high-pitched screech echoes through the building. Astrid (who is the only one with the right angle) see three more pairs of yellow eyes through the splintered floorboards. Combat begins.
+We enact a plan: Aethild cries out in pain as if hit by a trap. We hear creaking from the floorboards below, and move quietly into combat positions. Astrid hears a floorboard creak as she steps, tries to correct, knocks over a barrel which was trapped and pulls down an entire shelf of barrels. She tries to dodge away, slips on spilt wine, falling on the ground. In a stroke of unimaginable misfortune, a barrel lands directly on her leg with a cracking sound. Another falls on the ground and splits open, spewing acid around the room. One of the barrels falls down the pit, and an inhuman high-pitched screech echoes through the building. Astrid (who is the only one with the right angle) see three more pairs of yellow eyes through the splintered floorboards. Combat begins.
 
 Aethild recalls the specifics of these creatures. They tend to appear in villages that were raided, the malevolent embodiment of those who used to live here, acting out a mockery of human lives. They are voracious eaters for their size, and love eating things otherwise poisonous or noxious. They are afraid of fire and light. They're called witchlings or bruents.
 
