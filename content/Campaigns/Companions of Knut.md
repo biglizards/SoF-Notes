@@ -101,7 +101,7 @@ A tiny little innocent young baby child of only 17 years emerges from the crowd,
 
 The party wanders off - Gabriel heads to the feast of the willow, the local harvest festival, followed by Polêman and Astrid. Jovian remains by the grave, playing his oud. Jago and underling head back to the inn to rest, apparently dissatisfied with the results of the duel. Athild does something in secret.
 
-Jago is apprehended by the Legion, who followed us to Caldis. They open up the hidden compartments within the carriage, and find a mummified human body and various jars of liquids and other alchemical equipment. Jago is tackled to the floor as Jovian arrives, extingushes all the torches, claims to worship *** the god of chains, and animates some chains to wrap around the Legion commander. They retreat in fear.
+Jago is apprehended by the Legion, who followed us to Caldis. They open up the hidden compartments within the carriage, and find a mummified human body and various jars of liquids and other alchemical equipment. Jago is tackled to the floor as Jovian arrives, extingushes all the torches, claims to worship [[Krozin, lord of chains]] the god of chains, and animates some chains to wrap around the Legion commander. They retreat in fear.
 
 Meanwhile at the feast Polêman has a great time and Astrid is kinda grossed out by how everyone is sharing the same food.
 
@@ -266,3 +266,100 @@ The rest of the watch passes uneventfully.
 
 **Mara 11th of Summer**
 
+Poleman has a dream
+- time flows backwards
+- robed figure removes a small scratch from the caravan's whitewash with their dagger
+- goes for days with nothing happening
+- a dozen Revic people smashing down doors, looking around, and reporting back to a group of three robed figures, saying a single word to them
+	- lighter furs, some bear-chested. battle scarred, a few with gold teeth. mismatched weapons/armour. No notable clan insignia on shields. There's one varnos shield, which the guy who dies had.
+- the robes figures, seen in the daylight, are a dark green. Extremely nondescript.
+- someone staggers out of the winery, head split open. lots of guys pile in, and drag out the corpse of a middle-aged varlish woman with her gut sliced open.
+
+the scratch is verified.
+
+we go back to the winery. the door is closed but everything seems as we left it. two people stay round the back to ambush any guys who come out.
+
+going inside, all signs of battle have been removed - the bodies, the the debris. There's a pungent, sour smell. The moment the torch is inside the room, there's a popping sound and the entire house explodes, and is now on fire. poleman is too far into the room to see the door, and jumps into the pit to escape the fire.
+
+the loot is: a load of small items, some valuable, most completely not. a few bits of jewellery. Nails pulled out of things.
+
+A skull picked clean, a large cleft made with some kind of blade in the forehead. More bones, maybe three skulls and enough bones to match.
+
+the building begins to collapse, poleman grabs a creature on the way out but it gets chopped in half on exit leaving only the legs.
+
+we do phrenology on the skull and confirm it was a revic man, just as poleman saw in his dream.
+
+3 places burn down, we knock known 
+
+poleman lays out his notes on the ground.
+
+- sees faces, lyvia, old mother, the duke (never met him), daughers, figures in robes, raiders, in a circle. draw lines, seeing them talk
+- turns and looks at another, over and over
+- suddenly: basement, endless, dark. rigid blocks of stone, rows and rows of cells. hands on bars, some gripping, some fallen on floor, in some none are present. flash of golden hair, cell door opens, someone cries out in joy then horror, blood runs through the bars.
+- looking at one cell in particular with golden bars. there's a ring, with a polished black gem. recedes into blood red, clears into yellow, clears, cracks, the hand loosens their grip and slumps.
+
+writing implements are depleted totally. A passage of text is circled by Astrid:
+
+> [[Ludovic de Mervil|He]] came back with a [[Aulani Lavinia de Mervil|young daughter]], only a year old, and then [[Anatona de Mervil|my mistress]] fell ill, though she was hale and hearty before.
+
+this rings a bell to Aethild. There are _so many_ person eating monsters. a few possibilities could be narrowed down by seeing the specimen, especially in a position of panic or alarm. weaknesses include:
+- umbrum
+- iron and silver, ideally blessed/enchanted
+- shacking would slow it down and prevent changing shape
+- arrogance - if they think they've defeated pray, they immediately try to eat them. if they consume something in so doing which hurts them, that'd put poision directly into their bloodstream.
+	- holy water, regular poision, specific banes, or even healing plants are often toxic to these beings
+		- honeysuckle, garlic
+
+we start looking at alchemy:
+- vials of brackish fluid, smells like rotten rose petals. stored next to crossbow bolts with special tips
+
+
+we get a big ceramic vase with painted vines on the side, a crane is feasting on the grapes.
+
+make some kind of potion
+- herbs, garlic, wine, silver/iron dust.
+- jovian blesses the wine to make it holy.
+- jago seals the cask to make it look un-tampered with.
+
+as we ride back, astrid spots some people with house mervil colours, and a woman in a riding dress. Astrid approaches, they hail and ask if we ride from metis. The woman is [[Rustia Nezetta de Mervil]]. They appear suspicious of us. Astrid explains what happened:
+- there was  fire (they saw it over the horizon) but we spent hours stopping it from spreading.
+- it was caused by a monster in metis as a means of attacking us
+- we killed it and have brought the body back
+
+she takes us aside, without any guards, about 15m off the road. she says she's involved in the efforts to solve the curse, and she may have evidence which could corroborate ours.
+
+Jovian suggets mass conversion, and she thinks that's a stupid and impractical idea.
+
+we try to read her:
+- mention the krozin guy, she seems to be digging for something
+- mention she's next in line, she blinks a bit too suddenly and says yes
+	- it doesn't seem like she's totally confident in that
+- ask if she thinks her sisters are fit to inherit.
+	- middle sister is a bit fanciful, little interest in finance, trying to leave the house as soon as possible
+	- lavinia never had a head for anything other than play, song and dance.
+	- she's being mostly honest here, but not entirely.
+- lavinia "has the run of the place" - she's always off doing something
+- we compare the fall of their house to Arati, and the revic territories. she falls quiet and says "well that's a lot to think about"
+- she says she makes reports on everyone coming and going and she'd know if anyone was going missing.
+- jovian checks her for magic, and she's not enchanted
+- we ask about a few other things
+- we ask about the figures in green robes - she recounts him getting letters from somewhere a long way away and then hurriedly leaving the house. he'd be away for at most two days.
+
+we lay everything out, completely trusting her
+- we mention the food
+	- she says she's been in the kitchens and knows nothing is being done to the food
+- we mention the construction 
+	- she says it's a wine cellar
+- we go through the rest of the events without mentioning anything magical
+- we then go over it again, mentioning the magic
+- on mentioning lyvia's she blanches - she's been dead for 10 years.
+
+we convince her something is up, and she agrees to help. We'll fix this. We'll fix this together.
+
+poleman asks for writing tools and a plan of the manor, which is to be delivered in the morning.
+
+we get a meeting with the duke scheduled in for tomorrow
+
+we ask for her to allow us to investigate the basement somehow (eg under the pretence of a tour of the manor)
+
+During the night Poleman is shaken awake by Jovian for his watch. We leave under cover of darkness. We will never return to Mervil Manor.

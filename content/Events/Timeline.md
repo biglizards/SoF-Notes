@@ -4,9 +4,14 @@ Azuria, Idaia, Beohra, Talia, Mara, Harla and Nashta. 13 weeks in every season.
 
 ~97AL: Marrodic invasion of Yrah begins
 
+~115AL: Second war with the Marrowlaw
+
 ~122AL: empire adopts Accorder calendar as official
 
+~143AL: Third war with the Marrowlaw begins
 147AL: peace treaty signed between the empire and the Marolaw
+
+~150AL: lonely eye band forms (and is no longer the Golden Hoof)
 
 159AL: great fire of Luruna
 
