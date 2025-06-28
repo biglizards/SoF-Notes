@@ -363,3 +363,102 @@ we get a meeting with the duke scheduled in for tomorrow
 we ask for her to allow us to investigate the basement somehow (eg under the pretence of a tour of the manor)
 
 During the night Poleman is shaken awake by Jovian for his watch. We leave under cover of darkness. We will never return to Mervil Manor.
+
+
+---
+
+inquisition is in barcini
+
+Gunter: last night, people with robes
+> asking about strainge things, calcium equm, posit sofit dereit
+> "he" would be useful real soon because she's leaving for a few days and she's going to come back when she's finished her buisness
+> "is it true you depared the estate" yeah i got a little bit out and was stopped by one of the guards and accused me of stealing from someone and i've got tto go back to one of those stone buildings
+> never spoke to a lady but i spoke to two. brown hair, older. asked what we were about, what skills we had. said we were good to stay for free but it'd be appreciated if we did tasks around the place eg weed the gardens. i said "shove it" that doesn't sound like a free meal or stay. must have affended someone they accused me of stealing
+> it was just the duke, some of the guards, and those fellas in the robes. they said i'd been tried in advance and found guilty. 10 years hard labour, but idk when that's meant to start i've just been down here.
+
+speak to serago:
+> oh hello. i'd been told i wouldnt be eating anything for the next few days.
+> i was forced out; i got a tip off. told that a second cousin was dying and needed urgent medical care. i rode out, but another horse raced into the path. crossbow was drawn and i was lead back here, through the stables by a strange foreign looking fellow. green robes.
+> no mock trail or anything like that. only saw that witch daughter
+> asked about ingredients. looking for replacements for ingredients of a foreign nature. can't get them around here. increase potency and duration. in particular not poisonous and wouldn't damage a hard-to-achieve effect from other ingredients. presumably planning on drinking it. not related to life extension. 
+
+
+we take nezetta aside and ask if she could pay is instead of the duke. she says she would but isnt in charge of finances. 
+
+astrid suggests we seek help from the other noble houses. she says she doesnt know the empress very well and she's old freinds with the don.
+
+nezetta suggests that we ensure that only the house guard loyal to her are present when we confront her father, and take him in chains to duruza. we could take all the horses such that none are left to follow us with. 
+
+poleman suggests additionally that we sent a rider to the inquisition, with instruction to inform them of everything if our confrontation goes wrong.
+
+jovian uses a spell to open a random door. it's [[Jan the Jagged|Jan the fucking Jagged]]. We contemplate releasing all of the prisoners and having them lead an armed insurrection against the duke.
+
+we also let out
+- ravin' variner
+	- personal friend of Jan
+- [[Serego of Matrica|Serego]]
+- Gunter
+- 4 more criminals who jan seems to know
+- 2 people who don't speak varlish (probably from an island)
+- a younger kremish guy. poor as shit. missing a bunch of teeth. afraid of everyone.
+
+it occurs to poleman that we can probably get the legion on side.
+
+we should probably just tell the criminals to fuck off
+
+we probably tell criola that we found serego in a prison cell in the basement and that she needs to go get the inquisition right now immediately.
+
+aethild asks everyone what the blonde-haired woman.
+> i've been here longer than anyone else. 2 cellmates who she came to visit. talked through the doors until they were gone. all accused of something. me arson. she came by and spoke to them one night, and left, and i heard him spitting and gurgling. by the morning he stopped making noises. she took a look at him and got one of her friends to drag him out.
+> this only happened to the one on my left. the woman on my right who had been here for 4 days. the figures in the robe took her and took her up the stairs. never heard from her again
+
+she's testing potions presumably.
+
+we consider sending the krem, criola, and a party member to the inquisition, but we'd need to time it such that they arrive after the coup had succeed.
+
+we tell jan to fuck off and he asks for a dagger, which we give to him. then he asks for gunter, who he accuses of being a criminal. aethild interrogates gunter to confirm this, and he confesses:
+
+> i may have made some bad friends in my time. i don't steal anything myself, i promise. just tell them where i think the stealing's good. windows, guard patterns. i just tell people things.
+
+jovian bargains them down to a single eye, and we usher everyone else who is presumed innocent out of the prison into the wine cellar. jovian stays behind to keep order. 
+
+---
+
+oh fuck me the logistics of this coup is really complex fuuuck me im so anxious i just wanna get it over with but we're so hung up on details
+
+Porchioni brothers, personal guards of the duke. reachable by bell. on watch specifically because the duke is meeting with mercs.
+
+try to smuggle out serego to go convince the legionnaires to escort us into the city, giving us the stamp of imperial authority. we smuggle out serego of the basement in a maid dress. the legionnaires left about half an hour ago. aethild riles out on a horse to try to catch up with them, with some difficulty, and tells them about serego getting kidnapped and being held in a secret basement by the duke, which convinces them to come back.
+
+while jan is interrogating gunter, he mentions Bjarni's Blood Brothers. They're well connected raiders in the area and have informants who tell them where the legion is (and is not). gunter says he 
+
+ > doesn't know much, but got messed up with the blood brothers in duruza. real crackdown in east harbor, needed to get out of the ciry. was paid a lot to travel to metis. looked around, noted how many people, what kind of protections. went to traveli inn by the name of "white whale" to meet a lady named curs. told her, she said "dont work with the raiders, it's done. another job" paid a lot. cased the manor, but they sniffed me out, was caught and thrown in here.
+
+oh no now jan knows metis has been burned down partially and wants another lead. jovian recommends rurica or burgernham. jan intimidates gunter into joining his gang. jovina has more questions
+> what told to find for raiders?
+> wanted a list of people in the town. knew it was partly abandoned. how many living, and where. little map. scout nearby hills - where nearest armed force responds from. what kind of people left - young/strong vs old/sickly. 
+> likely slavers
+> uhh i have no idea. could be a census for all i know.
+> jan: the blood brothers have the connections for slaving
+
+jovian knocks on gunters skull. it echoes.
+
+gunter cracks and says that both rurica and burgernham are abandoned. jan is pleased, and gunter is released, and then stabbed in the throat. he dies.
+
+jan tries to recruit jovian, arguing that he'll work together to get revenge on the duke. jovian appears completely swayed by this, and recommends they focus poleman down first, and then goes down through the rest of the party suggesting our weaknesses. jan asks for more weapons and says he can get them by killing the guards up by the stable.
+
+jovian comes out and tells poleman and co everything that happened in there and we, after some debate, agree to kill them all.
+
+meathead ted (tedwyn) gets away on a horse, but all other bandits, including Jan, are killed or incapacitated. Noticing the disturbance, Nezetta brings the guards she's trying to convince to the stable to show them what her father had been doing, at which point Jovian immolates the one remaining bandit, who had surrendered.
+
+Nezetta suggests that now would be a good time to confront her father, but no-one jumps at the idea. Poleman goes to get Astrid, who remained by the wagons, and is preparing to leave. Astrid refuses to join in, and continues her preparations. Nezetta dismisses her guards and they go into the house to take their positions.
+
+The duke arrives at the stable with his personal guard (and presumably changes out the on-duty guards at around this time to ones loyal to him). He moves to arrest Nezetta and Jovian, but Jovian starts accusing the Duke of his crimes (mostly performing for the crowd that has now formed as a result of all the commotion). Poleman tries to get into the house, but the guards on the door have been changed and move to arrest him. Poleman turns and sprints away from the house, in the general direction (but not directly towards) Astrid and the caravan, pursued by two guards. Astrid sees this and, having loaded up everything she needed into her wagon, leaves with [[Serego of Matrica]] and the orphans.
+
+One of the guards, seeing that they aren't going to catch up with Poleman on foot, stops and fires a crossbow bolt, which misses. Astrid helps from afar, causing the second bolt to miss and hit the other guard. The two stop perusing shortly afterwords. Astrid, having not noticeably committed any crimes, gets away safely. Poleman runs all the way back to Luruna.
+
+Jovian wins over the crowd and, after some prevarication, attempts to flee. Guards peruse him into the crowd, but are stopped. He makes it back to the remaining wagon, along with Jago and Juevo. They attempt to flee, but are perused by mounted guards. Jago scoops up [[Rustia Criola de Mervil|Criola]], who is on the floor for some reason. She has a bag full of jewellery. Jago and Juevo take the bag and untie the horses, fleeing, and leaving the caravan to stop. Jovian demands the guards do not persure them, and they obey, fearful for Criola's life.
+
+Once his friends have safely escaped, Jovian releases Criola, and demands he is executed on the spot. This demand is met, and he is decapitated. Fresh water continually flows from his neck instead of blood, forming a spring which eventually grows so deep his body can no longer be seen. This proves to all watching that he was, undoubtedly, a saint.
+
+
