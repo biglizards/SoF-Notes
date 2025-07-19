@@ -8,7 +8,7 @@ They are met with some resistance, organised by Scipian Barbolan, commander of t
 
 ---
 
-Shortly after fleeing Mervil Manor, circling the estate to reach the road to Duruza, Astrid meet up with (hags) who, seeing the fight had already started and ended before he and his legionaries could intervene, had turned around and started walking back to the capital. The two reconcile and journey together, staying for several weeks as Astrid healed her wounds. (hags) found many jobs suitable for a baneman, more than enough to cover living expenses which included a barrel of mulled wine a week.
+Shortly after fleeing Mervil Manor, circling the estate to reach the road to Duruza, [[Astrid Knutsdir|Astrid]] met up with Aethild who, seeing the fight had already started and ended before he and his legionaries could intervene, had turned around and started walking back to the capital. The two reconcile and journey together, staying for several weeks as Astrid healed her wounds. (hags) found many jobs suitable for a baneman, more than enough to cover living expenses which included a barrel of mulled wine a week.
 
 Having seen no advertisement of a ship bound for the Marrowlaw during their stay, the two sold their carriage to one Gnaesia Arcavo, a collector of antiquities who was very interested in its former owner, [[Karishna]]. (hags) describes her as a saint and recounts her death at the hand of a cursed ax - information which contradicted the official narrative, but when shown the weapon in question, along with Karisna's swish hands, Gnaesia parted with 10 silver (far more than market value) to buy the carriage and the ax. 
 
@@ -21,3 +21,43 @@ She begs of what remains of the Companions of Knut to either arrange an audience
 ---
 
 A town crier takes their stand to inform the citizens of Duruza that a fleet of Revic ships would soon be arriving, and that, as they are part of a diplomatic mission and have no hostile intent, there is no reason to panic. Astrid pushes her way down to the docks, looking at the flags on the horizon for that of her own clan, Verkvarg. She does not find it, but among the familiar Marrodic clans she finds a flag of unknown design - a snake emerging from a horn - attached to a ship of unfamiliar make.
+
+---
+
+The fleet would not be using the civilian docks - the fortified harbour, part of the royal quarter, leads directly to the palace. With about half an hour until landfall, Astrid and Aethild make their way to the dockside gate, where almost everyone who spoke to the guards was turned away. Aethild claims to have work catching rats in the warehouses, hired specifically by Bertrand (the royal dong farmer with whom he had worked previously, establishing significant rapport). Bertrand is called to the gate and, without hesitation, plays along, eventually convincing the guards to let him, and his "assistant", pass.
+
+Inside, Astrid finds an empty room to change into her fine clothes, and the two make their way to a makeshift viewing platform on the district walls, where various servants and minor nobles awaited the reception ceremony. Aethild claims to be taking care of Astrid, who, in her fine clothes, arouses no suspicion. 
+
+Hearing that, after reception, there is to be a feast which one requires an invitation for, Aethild identifies a suitably inebriated noble and asks for his invitation - or failing that, to take Astrid as his plus-one. The noble, half Astrid's age, takes offence, claiming to have already invited a most beautiful woman. Aethild raises an eyebrow - the noble is obviously lying about this - and seeing he has been caught out, blusters and insults Aethild, who responds in kind. The noble, enraged, demands satisfaction, and makes enough commotion to attract the attention of a pair of nearby guards, who remind him that duelling is technically illegal, and this fact may be harder than usual to overlook today owing to the high-profile guests present. Aethild (or was it Astrid? i forget) pick the invitation from his pocket as they leave.
+
+---
+
+Praetorian guards in ceremonial bronze armour line all sides of the harbour. Most of the city watch has been drafted in to make up the numbers. Brago, the delegation from clan Virkvärg, derides that both the quantity and quality of the military has not changed since 30 years ago  
+
+After the ships dock, 
+
+
+- trumpets sound, a herald announces the arrival of the empress, who says a few words and then goes back inside
+- the Basila's voice, a don, will be dealing with us day-to-day, but there will be an audience with the empress at some point
+- most of the ceremonial guards start to march out and the clans line up to present their gifts. the don, who is receiving them, accepts them with grace, but to a trained eye it's all formality.
+- Fatima presents her first gift, an ornate writing set, to much the same reaction, but also the captured dela Juno. the don considers for a moment, and then appears genuinely enthusiastic and grateful. Fatima also offers to sell the captured ship, with details to be negotiated at a later time.
+- Fatima and the Virkvärgs begin to wander off, but Astrid and Aethild walk up to them and introduce themselves. Brago identifies Astrid as a cousin and asks how her pilgrimage was going, noting he thought it was an odd choice to transport the reliquary by foot.
+- Since the reliquary is in the city, and it would be easiest to transport it back by boat given the opportunity has presented itself, and there is a little time before the feast begins, everyone heads to the inn Astrid was staying at to pick it up.
+- Astrid, Fatima, and Brago head up to the room to admire the reliquary, while everyone else stays at the bar. After a time, Brago asks Fatima to leave so he may discuss politics with Astrid. Fatima stays a little way outside the door, such that she can hear anything said with a raised voice.
+- Brago recounts the current political situation in Virkvärg:
+	- After Jarl Knut's recent death, the clan informally split into two factions, each with their own candidate for Jarl. As of yet, no consensus has been reached, and there is fear that the situation may turn violent.
+	- The accorder faction is a significant minority, and seem more aligned with Knut (who was also an accorder). But they deviate?
+	- The other faction is notionally orod tast and i don't really remember much about them either
+	- The two factions have generally irreconcilable stances on religion and the future of the clan
+	- Brago suggests that, as someone not particularly affiliated with either side, a somewhat legitimate claim, and as the one who successfully returned the reliquary, he would be ideal as a ~~third competing standard~~ middle ground to unite the clan. He asks for Astrid's support, which would involve disregarding Knut's will, which is almost certainly too idealistic to be practical.
+	- Astrid is unwilling to cede ground on this, and demands credit for transporting the reliquary and that the will is read out publicly upon its return. Brago is upset and attempts to open the reliquary by force to read the will.
+- Hearing a commotion, Fatima re-enters the room and attempts to sort out a compromise - the will would be read here and, if reasonable, returned to the reliquary. Astrid insists the seal not be broken, and Brago, seeing this would not be resolved any other way, challenges her to a duel, to be carried out later tonight. The two agree and the reliquary is carried back to the boat by Aethid and Stell (Steirla, Brago's guard-with-a-cool-title). Aethid fails to flirt with Stell, who is extremely serious.
+- Despite not understanding what anyone was saying, Scipian picks up that something is wrong and, confident in his fighting ability, offers to be Astrid's champion in exchange for his freedom. Fatima agrees, and Astrid buys him for a silver coin (very cheap, good deal)
+- Also, the party picks up [[Rustia Criola de Mervil|Criola]] and gives her an invitation to the banquet, so that she might be able to plead her case to the empress. At the banquet, she's seen speaking to a member of staff and lead off somewhere (???) at which point we lose track of her. probably got disappeared.
+- At the banquet, Astrid and Brago performatively ignore each other, and both gossip about their upcoming duel to try to win favour from the other clans. Aethild attempts to flirt with the crown princess Amoranta, but is prevented from getting close to their table and eventually thrown out entirely due to repeated attempts.
+- At night, on Fatima's boat, we gather for the duel. Traditional rules allow for champions, with a few caveats: duels between champions are typically to the death, and a noble unsatisfied with the result has the right to fight the opposing noble and their surviving champion at the same time.
+- The two stipulate conditions back and forth, eventually concluding the format: short-swords only, no armour, victory goes to first blood. Stell champions Brago, Scipian champions Astrid. Fatima, officiating, calls to begin combat.
+- They prowl around each other in a half-circle for a moment, then Scipian lunges forward. Stell dodges and counters, and the two lose themselves in a whirl of parries, feints, footwork, riposte after riposte until a quick slash grazes Stell's arm and they both instinctively jump backwards.
+- It's only a few drops of blood, but Astrid picks it up in the darkness and calls victory. Brago blusters something about first blood meaning injury, not literal just literal blood. Fatima agrees,  the sound of steel on steel and heavy breathing resumes.
+- Stell lands a series of blows on Scipian's chest, arms, and leg, but none are deep enough to leave a scar, or call an end to the fight. Frustrated, Scipian swings wildly, trying to drive her back against the edge of the boat. She dodges backwards and counters, knocking the blade out of his hand. It clatters across the floor a few meters away. He reaches for her, as if going for a grapple, then punches her wrist at the last moment, throwing her weapon in the other direction.
+- For a moment, silence, as they both calculate their next move - a mad dash back to their weapons, picking them up, and turning around to see Scipian mid-swing. She raises her hand to parry but too slow, he swerves the blade towards her and cuts off her hand. It falls to the ground, still clutching her sword. Bleeding, sweating, panting, Scipian raises his sword into the sky and screams.

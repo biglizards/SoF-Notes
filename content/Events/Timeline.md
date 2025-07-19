@@ -8,6 +8,8 @@ Azuria, Idaia, Beohra, Talia, Mara, Harla and Nashta. 13 weeks in every season.
 
 ~122AL: empire adopts Accorder calendar as official
 
+who fucking knows: blood moon over the dry coast, birth of 
+
 ~143AL: Third war with the Marrowlaw begins
 147AL: peace treaty signed between the empire and the Marolaw
 
