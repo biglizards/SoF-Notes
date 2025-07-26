@@ -1,4 +1,4 @@
-A trade ship leaves Nivena, loaded with valuable cargo and the arguably more valuable aristocrat (something) della Juno, guarded by his bodyguard (deryn's character) and the active battalion of the 72nd Century (which consists mostly of trainees). The ship is blown off course into shallow waters - Nivish trade ships typically stick to deeper waters to avoid the risk of running into Revic raiders.
+A trade ship leaves Nivena, loaded with valuable cargo and the arguably more valuable aristocrat Damian della Juno, guarded by his bodyguard (deryn's character) and the active battalion of the 72nd Century (which consists mostly of trainees). The ship is blown off course into shallow waters - Nivish trade ships typically stick to deeper waters to avoid the risk of running into Revic raiders.
 
 A fleet of 12 longships leave the Marrow, each flying the flag of a different clan. They are bound to Duruza to attempt to negotiate a potential trade route between the two nations on behalf of the Marrowking. On their way, they encounter a trade ship blown off course, and several longships break formation to board it. The first to reach flies the flag of clan (hattie's clan), and their men stream onto the soon-to-be captured vessel.
 
@@ -38,7 +38,7 @@ After the ships dock,
 
 
 - trumpets sound, a herald announces the arrival of the empress, who says a few words and then goes back inside
-- the Basila's voice, a don, will be dealing with us day-to-day, but there will be an audience with the empress at some point
+- the Basila's voice, a don Martolis, will be dealing with us day-to-day, but there will be an audience with the empress at some point
 - most of the ceremonial guards start to march out and the clans line up to present their gifts. the don, who is receiving them, accepts them with grace, but to a trained eye it's all formality.
 - Fatima presents her first gift, an ornate writing set, to much the same reaction, but also the captured dela Juno. the don considers for a moment, and then appears genuinely enthusiastic and grateful. Fatima also offers to sell the captured ship, with details to be negotiated at a later time.
 - Fatima and the Virkvärgs begin to wander off, but Astrid and Aethild walk up to them and introduce themselves. Brago identifies Astrid as a cousin and asks how her pilgrimage was going, noting he thought it was an odd choice to transport the reliquary by foot.
@@ -61,3 +61,39 @@ After the ships dock,
 - It's only a few drops of blood, but Astrid picks it up in the darkness and calls victory. Brago blusters something about first blood meaning injury, not literal just literal blood. Fatima agrees,  the sound of steel on steel and heavy breathing resumes.
 - Stell lands a series of blows on Scipian's chest, arms, and leg, but none are deep enough to leave a scar, or call an end to the fight. Frustrated, Scipian swings wildly, trying to drive her back against the edge of the boat. She dodges backwards and counters, knocking the blade out of his hand. It clatters across the floor a few meters away. He reaches for her, as if going for a grapple, then punches her wrist at the last moment, throwing her weapon in the other direction.
 - For a moment, silence, as they both calculate their next move - a mad dash back to their weapons, picking them up, and turning around to see Scipian mid-swing. She raises her hand to parry but too slow, he swerves the blade towards her and cuts off her hand. It falls to the ground, still clutching her sword. Bleeding, sweating, panting, Scipian raises his sword into the sky and screams.
+
+
+---
+
+Vitaly sends a letter to the dela Junos at a post office explaining roughly the situation, and that he'll be busy working for a different merchant company for a while. The clerk takes some interest in Damian's name.
+
+As the sun rises, someone came into the room where Astrid and Scipian were resting, and lets Astrid know that her attendance at a meeting of jarls is not optional. Stell wakes up enough to offer some advice: clan Costoris (Toph) dont like brago but are fine with the house, but most other clans are going to be against her.
+
+During the hearing, about five voices other than Varnoss speak out against Astrid. Ranvig hears the account of these events, from Astrid, Fatima, and cries from the other houses, and reaches a conclusion - the duel was conducted legitimately, but as a lower-ranking member than Brago, Astrid cannot be rewarded by killing a delegate, and therefore she should not replace him as a delegate (leaving Virkvarg unrepresented). Astrid contests that she is not of a lower rank, as the matter of succession is yet unresolved.
+
+Toph, after a little prompting from Aethild, proposes that no further punishment is needed. Varnoss proposes the following: Astrid must kiss the ring, wear fealty to Varnoss, and they will read and then re-seal Knut's will (without publicly revealing the contents). Astrid accepts.
+
+After, Aethild visits [[don Martolis]] to ask after [[Rustia Criola de Mervil|Criola]], who nobody had seen since last night's dinner. The don recounts his conversation, in which Criola appeared concerned and scared and requested to speak to the empress to raise a formal complaint against her own house, something which, while permitted, is quite unusual. He denied her request to speak immediately, as the empress is quite busy, but implied he had set a date for a hearing, and had sent a letter to don Mervil explaining the situation and requesting his presence. He asks if we know where Criola is, as he is concerned for her safety. Aethild glares at him, as that last part was obviously a lie, asserts that sending that letter has put Criola in danger, throws a glass of wine in his face, and runs away.
+
+The party regroups and decides to head out to see Criola, with an aim to smuggle her back into the royal harbour and onto Fatima's boat. Cautious of the city watch patrolling behind them, they took a long and winding route to the tavern Astrid and co had been staying. On the way, an orphan ran up with a message, but says they need to do it in private, motioning to a nearby alley. Fearing a trap, Fatima gives the orphan (who's name was maizy) a gold coin to tell us now, as well as who she's working for, and she tells us that [[Meathead Ted]] is looking for us (so that he can rip our entrails out).
+
+When the party arrived at the tavern they met with [[Serego of Matrica|Serego]], who provided a cryptic message apparently given to him by someone matching the description of [[Quintus]]:
+
+> I'm not safe, i've left the SB, find me where the eagle finds it's nest. try the blue docks, and watch your purse.
+
+Serego is fairly familiar with the blue docks, and guesses that the note might be referring to the Aery. We take him along with us, and eventually pass over a bridge going to the blue docks, which is next to the Kremish district. A guy smoking on the bridge look at us (who wouldn't, Fatima is in full armour and noble clothes). He slips away soon after we pass him. Vitaly buys a basket of cheese tarts from a street vendor.
+
+We make it to the aery, a tavern with once-grand but now peeling paintwork, and meet up with Quintus again, who takes Astrid to Criola. She has given the crown princess a letter to give to the empress. She's going to stay in the mincemeat and ale afterwords, but the party concocts a plan to sneak her into the royal docks: bribing the guards. She accepts, packs up her things, and joins the party.
+
+Meanwhile, down in the bar, a dog comes up to Scipian and Vitaly, apparently interested in the cheese rolls. The two feed the dog, and it licks their hands. Astrid thinks there's something weird about the dog. Someone kicks it so hard it starts bleeing from the ears and it runs out of the tavern. Astrid asks Scipian to follow it, which he does, into an alleyway where there's a bloodstain quite high up a wall next to a rent between two houses. Scipian theorises that if the dog was a shapeshifter, it might have left the stain while reverting to human form.
+
+He tries to vault up into the rent, but something distinctly human bites his hands and he falls back down, and heads back to the rest of the party, who are heading back to the boat. On the way they see a guard patrol and duck into a nearby alley to let them pass. Everyone is a bit tired and let Serego lead for about 10 minutes, until they realise that he's leading them through a series of alleyways that head into the Kremish district, which is clearly undesirable. We backtrack, but find the way out blocked by a cart in a T-junction within the alley, with the sounds of an argument nearby from the other side.
+
+We try to get past, with some people slipping past the back, and Scipian climbing over the top. The man having an argument yells at Scipian as he climbs over - he has a crossbow pointed at him, and it appears he was having the argument on his own. Scipian blusters for a bit, giving Fatima, Jovian, Serego, and Criola enough time to get to the other side, but a gang of Krems lead by the lady who sold Jovian those cheese rolls (and also [[Meathead Ted]]) arrive behind the rest of the party, trapping them with the wagon at their back.
+
+The lady explains that Meathead Ted is looking for revenge for his friends, who were killed for associating with [[Jan the Jagged]] by the [[Companions of Knut]]. Astrid points out that that party has almost completely dissolved, and [[Jovian Palantina|Jovian]], who did most of the killing, died and is now a freshwater spring, and [[Poleman]] is in [[Luruna]] somewhere.
+
+Ted suggests he's already dealt with Poleman, and that he's going to kill Astrid now. Scipian (on behalf of everyone else) asks if he can leave, since he doesn't really have anything to do with this grudge, and with the cheese lady's approval everyone who'd got past the cart heads out, leaving Astrid and Quintus behind. By some stroke of luck, the cart unwedges itself and crashes into a wall, exploding flour everywhere at exactly the same time as Quintus charges into the gang. Astrid runs away to the sounds of several different people screaming in pain.
+
+Everyone (other than Quintus) make it back safely to the royal docks. The guards ask who Criola is, as there's paperwork they need to fill in, and Fatima starts counting coins. After a moment, the guards agree that maybe paperwork isn't needed in this instance, requiring only 6 bronze between them. Once out of earshot, Criola is appalled that the guards have fallen so far as to accept bribes, and Scipian is appalled both that Fatima had been counting *bronze*, and that the guards had accepted been so cheap as to accept them.
+

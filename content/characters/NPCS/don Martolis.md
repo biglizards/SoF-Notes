@@ -1,0 +1,1 @@
+Speaker for the empress and liaison with the Marrodic diplomatic mission
