@@ -152,4 +152,3 @@ Another visitor at the other gate - it's [[Aulani Lavinia de Mervil]] asking us 
 The party briefly splits, with Scipian heading in the direction of the docks (although that way also lead to much of the city). Fatima notices that he's being followed, and catches up to ask for his help with something else instead.
 
 Fatima decides that she wants to kill and eat Criola, to ensure that she is never captured.
-

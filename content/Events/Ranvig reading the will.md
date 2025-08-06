@@ -1,0 +1,3 @@
+Astrid leaves the room as Ranvig opens and reads the will. She spends a little while reading impassionately, occasionally jotting down notes. She occasionally raises her eyebrows, and halfway through she suppresses a bit of a chuckle. She raises her eyebrows and nods subtle twice around 2/3rs of the way down. A slight twitch of a smile at the end, and she looks genuinely respectful, as if suddenly taken with some part of this. 
+
+She restamps the seal, and confirms that both Astrid and Aethild feature in the will.
