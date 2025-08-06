@@ -37,7 +37,7 @@ several other character interactions which didn't involve me occurred.
 	- Innocenta adds a gold to the first round's pot, which eventually goes to Vitaly Von Brom
 	- Satara is visibly upset at both losing and not gaining any dirt on anyone
 - The Marsallas arrive and conduct some interviews
-	- general labourers are taken upstairs to talk, mercs engage in a dual with Lassrin
+	- general labourers are taken upstairs to talk, mercs engage in a duel with Lassrin
 	- Satara is disarmed, but disarms their opponent at the same time
 		- Nihaya recognises this as a binding spell by seeing the link between the two objects
 			- isn't super familiar with the spell/school but this was a kind of magic seraphites were often accused of/persecuted for

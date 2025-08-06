@@ -2,7 +2,7 @@ A trade ship leaves Nivena, loaded with valuable cargo and the arguably more val
 
 A fleet of 12 longships leave the Marrow, each flying the flag of a different clan. They are bound to Duruza to attempt to negotiate a potential trade route between the two nations on behalf of the Marrowking. On their way, they encounter a trade ship blown off course, and several longships break formation to board it. The first to reach flies the flag of clan (hattie's clan), and their men stream onto the soon-to-be captured vessel.
 
-They are met with some resistance, organised by Scipian Barbolan, commander of the Century, but the men are inexperienced and underprepared - it quickly becomes clear they could not fend off a single longship, let alone a dozen. (deryn) calls for a parley, demanding a dual with the Marrodic captain.
+They are met with some resistance, organised by Scipian Barbolan, commander of the Century, but the men are inexperienced and underprepared - it quickly becomes clear they could not fend off a single longship, let alone a dozen. (deryn) calls for a parley, demanding a duel with the Marrodic captain.
 
 (hattie) steps onto the trade ship, and offers a compromise: in exchange for all goods on board, the ship would be taken to Duruza and sold, where all aboard would be safely escorted back to Nivina. (the della Juno), after some persuasion, agrees. The low-ranking soldiers who survived are stripped of their weapons and armour, and the fleet gained another ship.
 
@@ -96,4 +96,60 @@ The lady explains that Meathead Ted is looking for revenge for his friends, who 
 Ted suggests he's already dealt with Poleman, and that he's going to kill Astrid now. Scipian (on behalf of everyone else) asks if he can leave, since he doesn't really have anything to do with this grudge, and with the cheese lady's approval everyone who'd got past the cart heads out, leaving Astrid and Quintus behind. By some stroke of luck, the cart unwedges itself and crashes into a wall, exploding flour everywhere at exactly the same time as Quintus charges into the gang. Astrid runs away to the sounds of several different people screaming in pain.
 
 Everyone (other than Quintus) make it back safely to the royal docks. The guards ask who Criola is, as there's paperwork they need to fill in, and Fatima starts counting coins. After a moment, the guards agree that maybe paperwork isn't needed in this instance, requiring only 6 bronze between them. Once out of earshot, Criola is appalled that the guards have fallen so far as to accept bribes, and Scipian is appalled both that Fatima had been counting *bronze*, and that the guards had accepted been so cheap as to accept them.
+
+---
+
+Talia, 2nd of Autumn
+moon: thin cresent, barely visible. waxing.
+
+Fatima, Scipian, and Astrid went to a meeting about selling the trade ship. Representing the empire is the don and admiral Marcan Mimori (a member of his family has married into the Marsallases). They initially offer 30 silver, and Fatima haggles them up to 50 for the ship and a monopsony on the cargo. An inspection is arranged for Harla 2nd, two days from now.
+
+Fatima's retainer picks the lock on Damian's lockbox, hoping to find the ship's manifest to determine the value of the cargo. The contents are underwhelming - low-grade iron ore, timber, clothing, and a single crate of two-dozen nivish longbows. Also in the box is a coat, a fine compass which Fatima takes, and series of personal letters which Fatima also takes.
+
+In one of the letters, Martala (? a relative of Damian?) writes to Damian della Juno about the commission and why the he's going on this boat, about his favourite prostitute, and then there's a block of text that's completely indecipherable. Fatima gets Criola to try to crack it, and also takes a copy for herself.
+
+Stell and Astrid have a private conversation in another room. She hopes to die in service of a noble cause, and requests a purpose from Astrid, who says she aims to take the throne of Virkvärg at risk of her own life, but not that of her family. Stell outlines the situation and offers her advice: [[Stell's Advice]]
+
+Astrid gets stopped outside her room by Ranvig's huscarl, who is here to collect the will. Astrid and Aethild head out to the boat where the reliquary is, and note that there are two lights on, one on both of Fatima's boats. Fatima asks about the nivish code she's looking at, the huskal suggests that maybe someone in duruza could help. They open the reliquary and take the will and take it to ranvig.
+
+Notes on [[Ranvig reading the will]] are on a different page in case you want to be left in suspense.
+
+---
+
+Mara 2nd of autumn, 172
+
+Serego smuggles some grapes to Criola for breakfast, and asks for us to retrieve his stuff from the tavern and to tell his patients that he's indisposed. Aethild heads out on his own, but picks up Folvin the haughty courtier. He picks up the stuff and then heads to a courier (Sinoli and Son) to have them tell everyone. He haggles them down from 4B to 3B to 4B to zero, and then back up to 2B. 
+
+They head back to the palace and Folvin whispers something to the guards and they act a little taken aback and let him through. Aethild takes him back to his room, and then breaks down crying and falls asleep. We learn that Don Marion Matolis's son, Vespin, had a dalliance with Folvin. Folvin had to escape out a window and broke his tibia.
+
+Fatima returns to her room to find the door unlocked. The room is tidy, but all of her notes have been stolen.
+
+---
+
+hattie meeting one: joint ownership shipping lane between stravan and duruza. it's wool.
+
+
+aethild animates [[Karishna]]'s right hand to find the person who stole all of fatima's stuff. It runs out of the room and down the corridoor, and down the stairs. Astrid falls over the stairs and grabs the banister, but trips Scipian up as he follows. It heads down, down, and down another set of stairs to the basement/servent's zone.
+
+A few servents see us. Scipian barges past and Aethild invoke's Bertrand's name which allows the rest of them to get buy. The hand leads us to a door with a nameplate: "Lenora". Aethild doubles back to fetch Fatima, and once everyone has grouped up we bang on the door.
+
+Apparantly she thought no-one was staying in the room and thought the documents might be relevant to the house, so brought them to the Majordomo. Everyone believes her for some reason, and we go see her boss, who retrieves the documents from a safe. They've been rebound, apparently by a scribe who spoke the languages(s) they were written in, who has since gone on leave.
+
+Aethild attempts to slip a silver coin into Lenora's bag, and finds a scrapbook open with impressions of revic symbols. The party asks to take Lenora with us, and the Majordomo permits this (presuming that we'll be punishing her for her mistake somehow).
+
+We exit out of the upper entrance to their office into a courtyard. Aethild, and a little bit of the others, break her down and she admits to taking them intentionally to copy some of the text in order to teach herself revic, as she wanted to send a letter to an estranged revic family member. Seeing she meant no harm, Fatima offers to translate and deliver her letter.
+
+We go back to the boat to try to find the secret things. Scipian uses his Nivish intuition to determine there's probably some stuff hidden in a secret compartment, and Astrid uses her carpenter's intuition to determine where it is. There's a bag containing about 14 silver in various currencies, various daggers in varying sizes, and lots of face coverings in various types.
+
+Fatima goes to her meeting. It's about joint ownership of a shipping lane between stravan and duruza, trading wool. She negotiates an extremely favourable deal, gaining a 1 (i think?) year monopoly on the wool supplied, with the expectation that it would be renewed if everything went well.
+
+After a bit, a guard comes up to Astrid, Scipian, and Aethid, and says someone's at the guard house looking for us by the name of Quintus. He seems quite hurt. Aethild attempts to inspect his wound under the guise of treating it, but Quintus doesn't want it to be accidentally reopened. Aethild touches his hand as part of this, and it's stone cold.
+
+Zombie Quintus lunges at Astrid and puts her in a chokehold. Scipian tries to pull his arms away but they're superhumanly strong. Aethild starts to draw a circle around him to banish the spirit possessing him. Scipian hacks off one of the arms, allowing Astrid to get a few breaths in, and then the circle is completed, Aethild recites a poem, and the body drops to the floor. Guards come in and ask some questions, bring a mortician who confirms that the body was dead before it came in, and let us go.
+
+Another visitor at the other gate - it's [[Aulani Lavinia de Mervil]] asking us where Criola is. She updates us on the Mervil situation - [[Rustia Nezetta de Mervil]] is dead, presumably killed by her father (although Lavinia obviously doesn't admit anything, even when read), and the Don [[Ludovic de Mervil]] has taken ill with a flare up of stress-induced rheumatism. The party denies knowing where Criola is, and says that she's been hopping between taverns to avoid being found.
+
+The party briefly splits, with Scipian heading in the direction of the docks (although that way also lead to much of the city). Fatima notices that he's being followed, and catches up to ask for his help with something else instead.
+
+Fatima decides that she wants to kill and eat Criola, to ensure that she is never captured.
 

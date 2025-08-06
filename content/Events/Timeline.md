@@ -1,4 +1,5 @@
 Azuria, Idaia, Beohra, Talia, Mara, Harla and Nashta. 13 weeks in every season.
+![[Pasted image 20250802134213.png]]
 
 0AL: fall of the third ascendancy
 
@@ -24,7 +25,7 @@ who fucking knows: blood moon over the dry coast, birth of
 ###### Beohra, the 12th of Spring 172AL (aka 150 rising): Events of [[An Isle Aflame]] begin
 
 ###### Mara, the 10th of Summer 172AL: Events of [[Companions of Knut]] begin
-- Nashta 10th of Summer 172AL: [[Karishna]] dies in a dual in Caldis 
+- Nashta 10th of Summer 172AL: [[Karishna]] dies in a duel in Caldis 
 
 
 
