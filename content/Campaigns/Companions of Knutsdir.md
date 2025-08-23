@@ -151,4 +151,73 @@ Another visitor at the other gate - it's [[Aulani Lavinia de Mervil]] asking us 
 
 The party briefly splits, with Scipian heading in the direction of the docks (although that way also lead to much of the city). Fatima notices that he's being followed, and catches up to ask for his help with something else instead.
 
+Aethid never met with Lavinia, and instead went directly to the boat after hearing that a noble had arrived, assuming that it Lavinia. He told Criola to keep a low profile, eg not using a candle, and was given a shopping list.
+
 Fatima decides that she wants to kill and eat Criola, to ensure that she is never captured.
+
+---
+
+Aethild goes around the palace to get supplies for criola. A servant is looking at him in a knowing way, but hurries off when he gets noticed. He notices another figure looking at him from a first-floor window as he returns to the ship.
+
+Vitaly socialises with the guards/servants and does some light gambling and talks about whale meat. Apparently the Marsvinn are plotting against Astrid. Fatima with Vitaly head to the Primafora in the Wens to get a new cloak and 22S worth of Valiant-Empire-themed jewellery.
+
+Vitaly gets a kebab and gives a bit of it to a dog. It licks some sauce off his hands. It doesn't look similar to the dog we saw in The Aery. The dog follows Vitaly for a while, but then stops raises its hackles, and starts barking at an alleyway. Fatima notices a rustle of movement behind a stack of crates halfway down the alley, but it quickly moves out of sight. Vitaly picks up the dog - it doesn't resist, but continues to stare at the alley.
+
+A guard notes that the dog is the same breed used by the legion, and that if fed up enough it could be a reliable companion. They especially highlight the keen sense of smell.
+
+Astrid goes to the baths to meet with Toph, and learns that the boats for the whale hunt will be leaving early and those who wanted to do well should avoid drinking too much at the feast.
+
+Aethild goes around smearing fish entrails on the boats to attract whales. A speaker tells her that only the boats from clans Castoras, Marvur, and Varnoss will be used in the hunt. The participants will be split into three teams - only those of renown will be allowed, so more housecarls will be needed to crew the ships (ie not galley thralls). Ranvig is displeased at the lack of unity after Brago's death, and wishes to reform bonds between the clans. She complains at the increased boldness of the inquisition, and says she'll be aiming to show the superiority of the old ways. Aethild asks her to set a spirit to ward the boat, and she does so for 4S. Odbjorg.
+
+Marsvin are one of two clans to serve directly under Varnoss, being in higher esteem to the other six.
+
+Hrodgir (jarl deligate of marsvin) and Thrudvedir (nephew of the jarl of clan vedir) are quiet and reserved, and occasionally cast a glance towards fatima and astrid.
+
+Vitaly chats up a twink chronicler, and they head off into the hedge maze to drink. Aethild carrouses with some housecarls, telling them stories about his times as a baneman. He arm wrestles one of them after they accuse him of lying, and wins. She leaves to "freshen up" and Scipian subtly follows her.
+
+Throdvedir excuses himself, and fatima discerns that he has ulterior motives and doesn't like astrid. Ranvig calls for axes and the meat to be brought in, and the servants carry through an entire roast boar. One can have as much meat as they shave off by throwing an axe at it. Toph gives Astrid some advice, and astrid hits first the snout, and then a good cut of back bacon.
+
+Fatima notices that astrid's meat was prepared using a smaller separate pot of gravy, and calls throdgir out for poisoning her food - suggesting that there's a tradition of eating food from one another's plate as a mean of reconciliation. He refuses, claiming he's feeling ill.
+
+Meanwhile, scipian gets caught sneaking around in the house by Throdvedir, who offers him 12S in rings to betray astrid and lead her towards a door where she is to be assassinated.
+
+---
+
+During the night, the bald man who had been seen following the party earlier tried to sneak onto the ship, and was killed by the spirit. He appeared unhurt except for clawing at his neck, as if he was unable to breath. He wore servents clothing, and thin shoes designed to make little noise, and carried a single long dagger of good make. He has iron ore tied to his legs and is dumped into the water.
+
+Aethild makes an attempt to check if the dog is a shapeshifter at Scipian's behest, and concludes that it is not. He heads out to the wens to try to reserve two spots for the party's boats. Scipian heads out to buy various supplies.
+
+A boat with the flag of a porpoise, clan Marsvin's, is seen heading directly towards the Luca Lenna. Fatima orders everyone to prepare for combat. His crew are unarmed and unarmoured. Hrodgir hails, asking to talk to Astrid. He boards the ship alone, and conveys that:
+
+- He respects Astrid for her ability to project her will
+- The aim of the plot wasn't to kill Astrid but to force her to duel him 1-on-1
+- He'd like for her to get Thrudvedir off in exchange for tribute from him of 25S and 10 galley thralls.
+
+Astrid accepts, and he gives her a single silver, which, in addition to the rings we looted from Thrudvedir's body, amounts to 25S. Astrid, embarrassed, imagines Hrodgir's plank breaking as he returns to his ship, and by some stroke of luck this transpires exactly. A speaker from his boat calms the water around him, and stares coldly at Astrid. She returns a cheeky smile, and feels a cold grip around her neck. Hrodgir's boat sails off to rejoin the wale hunt.
+
+Astrid goes back to the palace and gets Ranvig to spare the guy because he says he's not gonna try to kill her again. We collect the thralls, as well as the axe he would have used to duel her.
+
+Aethild goes around the dockside taverns, asking the barkeeps to put up notices that we're looking for crew. We interview 6 people and hire 5, at a rate of 2B/day each for a 5 day journey (1S per crew member).
+
+- cecil linion of duruza. Knows how to do ropemaking and sails. Pleasant, professional, and forthright. Aethild clocks him as gay and flits a bit.
+- Burly man with a cropped beard. hairy guy. Aiba. Experienced quartermaster. Has killed people before.
+- guy with an eyepatch, scars, and three silver teeth. carries a dagger at his belt. ears pierced. From Skelverthon, in the sea of shades. Aethild gets a bad vibe from this guy and denies him.
+- woman with long curly GOLDEN hair, covered in sailor's tatoos. Nesta Krid. Mostly experience fishing. Is kremish, and was approached by someone representing the dewis and offered triple what we're paying. She admits this freely and says she doesn't like them as she worships the ideal lodges. Girlboss.
+- average man, bit of a receding hairline 22 years old. 5 foot 7. Anato (nat). Mixed experience, 15 years. Seems a little dim. 
+- Young woman, dark hair, fairly tanned. Prominent joker scar at the side of her mouth. Zarya Zaralo. From Ambraka (the varlish name for Varnoss). 30 years experience. Woman of discretion. 
+
+---
+
+Idaia 3rd of Autumn, 172
+
+more crew interviews:
+
+- beer belly protruding from a fine leather coat and ragged shorts. Big red nose hiccoughing, clearly drunk. Priskin. Deck swabbing, repairs, cooks mate. From Veglio (ruins of). Denied for being too drunk.
+- unkempt hair, beard with beads, misogynist. Calvis Mantis. Born at sea. At least 10 years experience, various ship types. Probably pirate. Gambling debt.
+- kind of unwashed furtive guy. Aki Gettles. Veteran of trade along the revic coast/yrric gulf. Usling. 10 years experience with sailships. Fatima HATES him. Denied for asking for 15B.
+- middle aged woman, neatly kempt red hair cropped short. Air of contemplation. Reserved. Cari Gunbrena. From Luruna, Kremish. 4 years sailing experience. Some experience in hospitality, smithing. Wants to see Marrodel. 
+- middle aged guy, balding brown hair. slight but toned. wears a vest. bows with grace. Hodly Gala. Apprentice to merchant ship's captain but they made bad investments and lost all their money. Good navigator. Sad but trying to keep a positive front. Apparently good at ledgers. Trying to get himself in with Fatima for some kind of comedy scam.
+	- thinks his former captain should have given out better food sometimes for morale. did a trust fall with him and wasnt caught.
+- woman with a bob of grey hair. peg leg. ragged clothes. Velora Thypho. From a family of Varlish mariners. At least 10 years experience ("too many"). Spent a few winters on the street, and is suffering for it. Nervous. Has experience instructing, but insists that she still has the strength to work herself.
+
+Fatima heads off for the trade meeting.

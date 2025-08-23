@@ -1,5 +1,4 @@
-Azuria, Idaia, Beohra, Talia, Mara, Harla and Nashta. 13 weeks in every season.
-![[Pasted image 20250802134213.png]]
+~50AT: Azur born 
 
 0AL: fall of the third ascendancy
 
