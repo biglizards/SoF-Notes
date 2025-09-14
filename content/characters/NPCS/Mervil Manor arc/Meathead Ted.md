@@ -3,3 +3,5 @@ Former member of [[Jan the Jagged]]'s gang (or at least, was working with him wh
 Has strong ties to the Krems in [[Duruza]], having gifted a large sum to a dewesetic.
 
 Attempted to assassinate [[Astrid Knutsdir|Astrid]] while she was in the blue docks, but she got away due to [[Quintus]] sacrificing himself.
+
+Attempted to assassinate Astrid by contracting shade rot and being smuggled into the cargo hold of her ship. Unclear if this was his choice or plan. Killed after being discovered due to coughing and moaning, briefly mistaken for a ghost by the crew.

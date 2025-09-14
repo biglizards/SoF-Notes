@@ -450,7 +450,7 @@ jan tries to recruit jovian, arguing that he'll work together to get revenge on 
 
 jovian comes out and tells poleman and co everything that happened in there and we, after some debate, agree to kill them all.
 
-meathead ted (tedwyn) gets away on a horse, but all other bandits, including Jan, are killed or incapacitated. Noticing the disturbance, Nezetta brings the guards she's trying to convince to the stable to show them what her father had been doing, at which point Jovian immolates the one remaining bandit, who had surrendered.
+[[Meathead Ted]] (tedwyn) gets away on a horse, but all other bandits, including Jan, are killed or incapacitated. Noticing the disturbance, Nezetta brings the guards she's trying to convince to the stable to show them what her father had been doing, at which point Jovian immolates the one remaining bandit, who had surrendered.
 
 Nezetta suggests that now would be a good time to confront her father, but no-one jumps at the idea. Poleman goes to get Astrid, who remained by the wagons, and is preparing to leave. Astrid refuses to join in, and continues her preparations. Nezetta dismisses her guards and they go into the house to take their positions.
 
