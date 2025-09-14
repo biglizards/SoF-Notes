@@ -433,7 +433,7 @@ try to smuggle out serego to go convince the legionnaires to escort us into the 
 
 while jan is interrogating gunter, he mentions Bjarni's Blood Brothers. They're well connected raiders in the area and have informants who tell them where the legion is (and is not). gunter says he 
 
- > doesn't know much, but got messed up with the blood brothers in duruza. real crackdown in east harbor, needed to get out of the ciry. was paid a lot to travel to metis. looked around, noted how many people, what kind of protections. went to traveli inn by the name of "white whale" to meet a lady named curs. told her, she said "dont work with the raiders, it's done. another job" paid a lot. cased the manor, but they sniffed me out, was caught and thrown in here.
+ > doesn't know much, but got messed up with the blood brothers in duruza. real crackdown in east harbor, needed to get out of the city. was paid a lot to travel to metis. looked around, noted how many people, what kind of protections. went to traveli inn by the name of "white whale" to meet a lady named curs. told her, she said "dont work with the raiders, it's done. another job" paid a lot. cased the manor, but they sniffed me out, was caught and thrown in here.
 
 oh no now jan knows metis has been burned down partially and wants another lead. jovian recommends rurica or burgernham. jan intimidates gunter into joining his gang. jovina has more questions
 > what told to find for raiders?

@@ -1,0 +1,3 @@
+A gang of raiders lead by Bjarni, who was previously in the employ of [[Ranvig]], but continued raiding independently following their dismissal at the end of the war. Currently taking orders from [[Aulani Lavinia de Mervil]]'s organisation in between raiding the coast.
+
+Known to mostly raid the western coast, but have been seen on the southern coast as well. In possession of a "living ship" as well as a speaker.

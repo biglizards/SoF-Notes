@@ -171,7 +171,7 @@ Aethild goes around smearing fish entrails on the boats to attract whales. A spe
 
 Marsvin are one of two clans to serve directly under Varnoss, being in higher esteem to the other six.
 
-Hrodgir (jarl deligate of marsvin) and Thrudvedir (nephew of the jarl of clan vedir) are quiet and reserved, and occasionally cast a glance towards fatima and astrid.
+Hrodgir (jarl deligate of Marsvin) and Thrudvedir (nephew of the jarl of clan vedir) are quiet and reserved, and occasionally cast a glance towards fatima and astrid.
 
 Vitaly chats up a twink chronicler, and they head off into the hedge maze to drink. Aethild carrouses with some housecarls, telling them stories about his times as a baneman. He arm wrestles one of them after they accuse him of lying, and wins. She leaves to "freshen up" and Scipian subtly follows her.
 
@@ -199,12 +199,12 @@ Astrid goes back to the palace and gets Ranvig to spare the guy because he says 
 
 Aethild goes around the dockside taverns, asking the barkeeps to put up notices that we're looking for crew. We interview 6 people and hire 5, at a rate of 2B/day each for a 5 day journey (1S per crew member).
 
-- cecil linion of duruza. Knows how to do ropemaking and sails. Pleasant, professional, and forthright. Aethild clocks him as gay and flits a bit.
+- cecil linion of duruza. Knows how to do ropemaking and sails. Pleasant, professional, and forthright. Aethild clocks him as gay and flits a bit. Apparently kremish.
 - Burly man with a cropped beard. hairy guy. Aiba. Experienced quartermaster. Has killed people before.
 - guy with an eyepatch, scars, and three silver teeth. carries a dagger at his belt. ears pierced. From Skelverthon, in the sea of shades. Aethild gets a bad vibe from this guy and denies him.
 - woman with long curly GOLDEN hair, covered in sailor's tatoos. Nesta Krid. Mostly experience fishing. Is kremish, and was approached by someone representing the dewis and offered triple what we're paying. She admits this freely and says she doesn't like them as she worships the ideal lodges. Girlboss.
 - average man, bit of a receding hairline 22 years old. 5 foot 7. Anato (nat). Mixed experience, 15 years. Seems a little dim. 
-- Young woman, dark hair, fairly tanned. Prominent joker scar at the side of her mouth. Zarya Zaralo. From Ambraka (the varlish name for Varnoss). 30 years experience. Woman of discretion. 
+- Young woman, dark hair, fairly tanned. Prominent joker scar at the side of her mouth. Zarya Caralo. From Ambraka (the varlish name for Varnoss). 30 years experience. Woman of discretion. 
 
 ---
 
@@ -213,11 +213,43 @@ Idaia 3rd of Autumn, 172
 more crew interviews:
 
 - beer belly protruding from a fine leather coat and ragged shorts. Big red nose hiccoughing, clearly drunk. Priskin. Deck swabbing, repairs, cooks mate. From Veglio (ruins of). Denied for being too drunk.
-- unkempt hair, beard with beads, misogynist. Calvis Mantis. Born at sea. At least 10 years experience, various ship types. Probably pirate. Gambling debt.
+- unkempt hair, beard with beads, misogynist. Calvis Montis. Born at sea. At least 10 years experience, various ship types. Probably pirate. Gambling debt.
 - kind of unwashed furtive guy. Aki Gettles. Veteran of trade along the revic coast/yrric gulf. Usling. 10 years experience with sailships. Fatima HATES him. Denied for asking for 15B.
 - middle aged woman, neatly kempt red hair cropped short. Air of contemplation. Reserved. Cari Gunbrena. From Luruna, Kremish. 4 years sailing experience. Some experience in hospitality, smithing. Wants to see Marrodel. 
-- middle aged guy, balding brown hair. slight but toned. wears a vest. bows with grace. Hodly Gala. Apprentice to merchant ship's captain but they made bad investments and lost all their money. Good navigator. Sad but trying to keep a positive front. Apparently good at ledgers. Trying to get himself in with Fatima for some kind of comedy scam.
+- middle aged guy, balding brown hair. slight but toned. wears a vest. bows with grace. Hodly Gala (nee Gelack). Kremish. Apprentice to merchant ship's captain but they made bad investments and lost all their money. Good navigator. Sad but trying to keep a positive front. Apparently good at ledgers. Trying to get himself in with Fatima for some kind of comedy scam.
 	- thinks his former captain should have given out better food sometimes for morale. did a trust fall with him and wasnt caught.
 - woman with a bob of grey hair. peg leg. ragged clothes. Velora Thypho. From a family of Varlish mariners. At least 10 years experience ("too many"). Spent a few winters on the street, and is suffering for it. Nervous. Has experience instructing, but insists that she still has the strength to work herself.
 
-Fatima heads off for the trade meeting.
+Fatima heads off for the trade meeting in the home of a wealthy merchant within the royal quater, taking Aethild and Vitaly with her. Once inside, don lipesa (one of princess Amaranthine's handmaidens) approaches them with a message for Astrid stamped with the royal seal. The messanger asks that it's delivered to criola, and fatima reflexively agrees. There's something heavy and metalic inside the scroll case, and the messanger, as she leaves, insists that "this is for her eyes only". Fatima suspects it may be a bomb.
+
+Don Martolis hates Aethild, but is forced to let him into the negotiations anyway. He doesn't seem to care about the message Aethild is holding. The merchant is shrewd and intelligent, and gets along well with Fatima, finding many places where their interests align and deals can be made.
+
+After the meeting, Don Martolis asks Fatima on a walk to discuss something. He suggests that he'd be willing to return the previous crew of the Luca Lenna in exchange for a minor holding fee. This immediately strikes Fatima as weird, as slave trading is banned in Duruza. Fatima presses him on this, and he asserts that he (on behalf of the empress) wishes to build goodwill with the trade delegation.
+
+Fatima and Aethild discuss torturing and/or thralling the crew, since they assume that this is part of some kind of scheme, but ultimately chose not to take the deal. He passes on a message from Lavinia, requesting Astrid comes to speak with her.
+
+everyone spends a long time working around the letter maybe being a bomb, and it's eventually opened and it seems fine. Aethild fucks up and drops everything on the floor and it all scatters everywhere. Someone steps on the end of the letter and get a bootprint on it, Scipian dives to catch some fine rings before they fall through the floorboards, and Aethid gets a big gold amulet of imperial favour.
+
+Aethild does some dumb bullshit and gets arrested, gets taken to Lavinia because she's the only noble that he can think of. Lavinia, once they're alone, asks to speak in private but when aethild says he's gonna leave she admits that the party is going to be killed by [[Bjarni's Blood Brothers]] because her organisation ordered them to. Aethid throws some dust in her face and runs off.
+
+everyone gets mad and shouts at each other. Scipian is too angry to write this segment.
+
+Ranvig has a history with Bjarni, and wants him dead for the sake of peace. She agrees to supply [[Odbjorg]], a speaker from clan Veder she had been thinking of taking for herself. Odbjorg dislikes Astrid for using magic dishonourably.
+
+everyone agrees that after the battle Aethild will be tied to the mast and flogged, likely by the speaker, until they go insane.
+
+
+---
+
+Aethild's flogging didnt make him go insane.
+
+The crew report a ghost in the cargo hold. Party goes in and find the ghost - the gaunt, white, shambling remains of [[Meathead Ted]], in the last stages of shade rot. Astrid kills him with javelins, and the body is rolled into a tarp and thrown overboard by Sterla and Seingrim, who are then quarantined in a cabin.
+
+The party gathers in Aeithild's room, and find Hodly Gala listening at the door. He reveals, under duress, that he was forced to smuggle two people aboard by a dewis in exchange for 5s. He is locked in the cargo hold until he finds and kills the other stowaway. He fails to do this within the alloted time (approx 5 hours) and is hauled out over the side of the ship, hanged, and stoned to death by the sailors for bringing the plague.
+
+On the third day (M3) [[Bjarni's Blood Brothers]] are sighted, and it's noted that the oars seem to be rowing on their own. Odbjorg uses magic to speed up the boat, and we eventually lose sight of them.
+
+- astrid takes Sterla and Steingrim back down into the hold and shoots some rats with a crossbow. it is later revealed that the dewis, who is hiding in the cargo hold, was possessing them at the time.
+- she then rearranges all the food into a pile by the entrance, working into the night. Steingrim goes to bed, but Sterla interprets a "do what you want" kind of instruction as "work yourself to death" and then does that. After a few hours, Astrid notices that Sterla has collapsed and is coughing, which they both recognise. Sterla offers to kill herself, but astrid says to wait until morning.
+- In the morning, her body has been moved and her throat cut. She's possessed, much like Quintus (and the rats, which apparently took a while to prepare) and attacks astrid, biting her shoulder in the fight. She calls for help and Aethild and Aiba bash the body to death. Someone remembers that umbrum can prevent someone from leaving a body they have possessed, but no-one has any at the time.
+- astrid miscasts a spell during the fight causing [[Bjarni's Blood Brothers]] to appear ahead of the ships. Everyone prepares for combat, although it's still possible to avoid them (at the cost of a considerable detour which we may not have supplies for).
