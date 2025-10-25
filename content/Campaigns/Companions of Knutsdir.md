@@ -252,4 +252,26 @@ On the third day (M3) [[Bjarni's Blood Brothers]] are sighted, and it's noted th
 - astrid takes Sterla and Steingrim back down into the hold and shoots some rats with a crossbow. it is later revealed that the dewis, who is hiding in the cargo hold, was possessing them at the time.
 - she then rearranges all the food into a pile by the entrance, working into the night. Steingrim goes to bed, but Sterla interprets a "do what you want" kind of instruction as "work yourself to death" and then does that. After a few hours, Astrid notices that Sterla has collapsed and is coughing, which they both recognise. Sterla offers to kill herself, but astrid says to wait until morning.
 - In the morning, her body has been moved and her throat cut. She's possessed, much like Quintus (and the rats, which apparently took a while to prepare) and attacks astrid, biting her shoulder in the fight. She calls for help and Aethild and Aiba bash the body to death. Someone remembers that umbrum can prevent someone from leaving a body they have possessed, but no-one has any at the time.
+	- it seems likely that the dewis attempted to kill Astrid while she was asleep but was fought off by Stell.
 - astrid miscasts a spell during the fight causing [[Bjarni's Blood Brothers]] to appear ahead of the ships. Everyone prepares for combat, although it's still possible to avoid them (at the cost of a considerable detour which we may not have supplies for).
+
+--- 
+
+- we figure it's probably best to fight them now and get it over with
+- the Seagull, captained by Scipian, tries to ride ahead of the enemy ship to encircle it, while the Lucalenna, captained by Fatima, holds back for a time and then attempts a high-speed ram with wind provided by Odbjorg.
+- The enemy ship is magic and rows itself, and the oars move with inhuman speed and unity allowing the boat to be far more agile than it otherwise would
+	- it keeps pace with the Seagull and Lucalenna consistently, preventing any ramming or encirclement
+- Bjarni is confident a giant eel will arrive soon, and successfully stalls until it appears, knocking the Seagul off course and eating/injuring/scaring the crew. Aethild recognises that giant eels are weak to thunder and asks Odbjorg to make some, and everyone gets down from the rigging to hide since there's not much wind without her and they keep getting shot down anyway
+	- no-one actually knows where the eel came from - you cant summon eels with speaker magic and there wasn't even a real speaker on their ship anyway
+- the eel is hit by several surprisingly accurate barrages of harpoons, and is finished off/scared away by the eventual thunder
+- meanwhile on the enemy ship, Halfdan leads a mutiny against Bjarni, citing "he's taking too many shares", "we don't even do raiding any more", and "this ship is an affront to nature" as the primary reasons. Most people are swayed by this, and are even more swayed when Halfdan quickly kills Bjarni in 1-1 combat.
+- A storm opens up above the ship, and lightning strikes directly where Halfdan is standing. Almost everyone other than Halfdan dodges away, but his arm is badly burned. Shortly after, the head of the ship erupts into flame, destroying the bindings which kept the spirit which rowed the oars contained.
+- since the ship is now on fire and the eel is dead, the Blood Brothers de facto surrender unconditionally and try to swim towards the Lucalenna. Many die in the stormy water, but 7 make it aboard (and promptly chained and taken as thralls), notably including:
+	- Halfdan, 30, leader of the munineers
+	- Leif, Halfdan's sister (same age, not related by blood)
+	- Luther, Nivish mad scientist and noted non-speaker who is researching methods to harness the spirits against their will
+
+Later, Halfdan visits Odbjorg to get her opinion on Luther and to ask about a vision that he had (no-one else knows about the vision). She reports that:
+- the spirits aren't sacred so she has no particular opinion on what Luther is doing, but he's a fool if he thinks he can abuse them and get away with it
+- Halfdan could become a speaker if he was given the right training, and he absolutely should not try to do so without training. she gives him an address halfway up a mountain somewhere.
+
