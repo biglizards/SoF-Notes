@@ -4,7 +4,7 @@ title: Homepage
 
 <marquee>hi welcome to my web page</marquee>
 
-you probably want [[Companions of Knut]], which is the notes for the current campaign.
+you probably want [[The Tower of Sorrow]], which is the notes for the current campaign.
 
 ![[Yrah Hexmap.webp]]
 

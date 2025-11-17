@@ -1,4 +1,4 @@
-A trade ship leaves Nivena, loaded with valuable cargo and the arguably more valuable aristocrat Damian della Juno, guarded by his bodyguard (deryn's character) and the active battalion of the 72nd Century (which consists mostly of trainees). The ship is blown off course into shallow waters - Nivish trade ships typically stick to deeper waters to avoid the risk of running into Revic raiders.
+A trade ship leaves Nivena, loaded with valuable cargo and the arguably more valuable aristocrat Damian della Juno, guarded by his bodyguard Vitaly von Brom and the active battalion of the 72nd Century (which consists mostly of trainees). The ship is blown off course into shallow waters - Nivish trade ships typically stick to deeper waters to avoid the risk of running into Revic raiders.
 
 A fleet of 12 longships leave the Marrow, each flying the flag of a different clan. They are bound to Duruza to attempt to negotiate a potential trade route between the two nations on behalf of the Marrowking. On their way, they encounter a trade ship blown off course, and several longships break formation to board it. The first to reach flies the flag of clan (hattie's clan), and their men stream onto the soon-to-be captured vessel.
 
@@ -61,7 +61,7 @@ After the ships dock,
 - It's only a few drops of blood, but Astrid picks it up in the darkness and calls victory. Brago blusters something about first blood meaning injury, not literal just literal blood. Fatima agrees,  the sound of steel on steel and heavy breathing resumes.
 - Stell lands a series of blows on Scipian's chest, arms, and leg, but none are deep enough to leave a scar, or call an end to the fight. Frustrated, Scipian swings wildly, trying to drive her back against the edge of the boat. She dodges backwards and counters, knocking the blade out of his hand. It clatters across the floor a few meters away. He reaches for her, as if going for a grapple, then punches her wrist at the last moment, throwing her weapon in the other direction.
 - For a moment, silence, as they both calculate their next move - a mad dash back to their weapons, picking them up, and turning around to see Scipian mid-swing. She raises her hand to parry but too slow, he swerves the blade towards her and cuts off her hand. It falls to the ground, still clutching her sword. Bleeding, sweating, panting, Scipian raises his sword into the sky and screams.
-
+- Brago, unsatisfied with the result of the duel, invokes his right to challange both the champion and their master at the same time. He downs Scipian and Astrid, and stands over Astrid gloating. Scipian gets up quietly and kills Brago while he's distracted. His other attendant tries to run and is also killed, and his body is dumped in the water. Brago's body is kept so it can be thrown into the ocean ceremonially.
 
 ---
 
@@ -275,3 +275,49 @@ Later, Halfdan visits Odbjorg to get her opinion on Luther and to ask about a vi
 - the spirits aren't sacred so she has no particular opinion on what Luther is doing, but he's a fool if he thinks he can abuse them and get away with it
 - Halfdan could become a speaker if he was given the right training, and he absolutely should not try to do so without training. she gives him an address halfway up a mountain somewhere.
 
+Fatima moves over to the Seagul, as it has more food and no plague. Astrid spots someone talking to someone else in a way that indicated they were planning a mutiny. It is mused that Iber's presence topdeck was having a soothing effect on the crew.
+
+Great Uncle Tibretto Bearlover the Trickster, the chef on the Death's Handmaiden (captured but unable to be enthralled due to being an Usling) suggests using the bodies of the dead to attract sharks, which could be used as food. Fearing a mutiny due to the limited rations, the plan is followed, but no sharks bite during the limited amount of daylight remaining. The rest of the bodies are covered in above-deck hammocks, so they can be used as bait tomorrow morning.
+
+---
+
+Nashta 3rd
+
+The morning's shark hunt was a great success! Someone suggested trailing the rowboats behind the ship (as it would be much easier to hit the sharks from a vantage point which could stop moving within a moment), and a great haul of two sharks was brought back to the ship, which should do a great deal for morale. The inedible parts can be thrown back into the water as more chum to catch more sharks, with any luck.
+
+Smooth sailing otherwise.
+
+During the night, a minor commotion - someone was knocking on the door to the brig. Suspecting it was one of the mutineers trying to recruit Halfdan and his friend (which would make sense, as they've already been in one mutiny recently), Astrid confronts them and loudly denounces the idea of mutiny as suicide: anyone fleeing the boat this far out to sea would surely die, and there's enough rooms the sick can be safely quarantined without infecting the rest of the crew. She then has tea with Tibretto, who has spent much of the night making some kind of head-ware he claims protects against plagues. Perhaps this is some nivish technology I've not heard of?
+
+big mutiny fight
+
+---
+
+Azuria 4th
+
+earthy, undertones of spicy aromatic scent in the hold. ragmere will not take you, the blood price is anulled. Skullface moira.
+
+long sinewy reddish strands with a waxen appearance. Kanthalos root. mostly grows in the cold northen climate. once a kind of holy root, known as preemroot or aidlas ails. assists one to depart from the material of their flesh and go on spirit journeys. Chemichally non-addictive, but extremely psycologically so.
+
+---
+
+Talia 5th
+
+Quarantine at Stravan passed uneventfully. Some kind of power struggle going on in the city and they don't let us dock. We don't get involved and trade our bulk goods for supplies.
+
+Fatima spends an entire guilder repairing the ship and hiring a loyal and skilled crew, far more than needed but she's taking no risks.
+
+---
+
+Harla 5th
+
+Arrived in Surkess. Lots of guys in armour greet us in port from clan Virwarg. It's Hrodi, Brago's uncle, and Knut's nephew.
+
+
+puzzle:
+
+Taliad 7:13 -  to: my KinLearn, HIDEElIth of CONFeckTe faith; I vow VenGens, UNerRing,
+Taliad 7:13 (actual) - the Learned man thus humbled, bowed before the Elect, yet the Feckless one ceased not his offensive prattle: "if thy invested authority truly exceedeth that of a mighty Gens, then the sword of divine justice must cut swifter than that of Eromeus' executioner!"
+Nashtunad 7:13 - "And also from Ithyra came from the merchant Teodorik, bearing 15 Rings fit for a prince"
+
+you have struck me down but this simple document you shall overlook, but my friends shall not. It is an arrow struck into your blackened heart.
