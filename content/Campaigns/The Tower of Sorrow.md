@@ -42,12 +42,12 @@ Come the morning, we inform the prefect about what we saw in Fonsano, and she, l
 
 We arrive outside the palisade in early evening - it's winter, and the mountains steal much of what little sun remains, so we only have 8 hours if light to travel by. We note four archers posted on the walls, and 6 men in shoddy armour come out to greet us. One introduces themselves as the captain, and also the mayor. We ask a few probing questions, hoping he contradicts what the Prefect told us about the townspeople, and he does. Tibretto asks about his time in the army - he's wearing the armour of a legionnaire - and gets the impression that, while he did serve, it was long ago.
 
-We intuit that these men are the deserters who had been harassing the townsfolk. Tibretto slips off to inform the cavelry to charge, and we stall for a few moments longer. As the men are about to leave, Halfdan quickdraws his longsword and spills the guts of the captain onto the ground. A battle ensues, but entirely one-sided - the only wounded on our side was a legionnaire whose horse mysteriously exploded. We kill four of them, take one prisoner, and confiscate the weapons and armour of three - the other two were too close to the walls when killed, and we didn't dare enter range of the archers.
+We intuit that these men are the deserters who had been harassing the townsfolk. Tibretto slips off to inform the cavalry to charge, and we stall for a few moments longer. As the men are about to leave, Halfdan quickdraws his longsword and spills the guts of the captain onto the ground. A battle ensues, but entirely one-sided - the only wounded on our side was a legionnaire whose horse mysteriously exploded. We kill four of them, take one prisoner, and confiscate the weapons and armour of three - the other two were too close to the walls when killed, and we didn't dare enter range of the archers.
 
-Njall interrogates the prisoner. He is uncooperative, but eventually persuaded to talk. He confirms that the deserters took over the town, and that he thinks this is a good thing. His arm is withered and frostbitten, and he seems tired. Satisfied, Njall leaves, and Tibretto takes her place, asking questions with a much warmer demeanor, to great effect.
+Njall interrogates the prisoner. He is uncooperative, but eventually persuaded to talk. He confirms that the deserters took over the town, and that he thinks this is a good thing. His arm is withered and frostbitten, and he seems tired. Satisfied, Njall leaves, and Tibretto takes her place, asking questions with a much warmer demeanour, to great effect.
 
 captured guy spills the details:
-- deserters attacked the town a little, and travelers nearby
+- deserters attacked the town a little, and travellers nearby
 - the town paid them off by giving them some lumber, and the attacks stopped
 	- everyone seemed fine with this and the lodge grew complacent
 - having lulled them into a false sense of security, the deserters entered the town and slaughtered the lodge officials (which the peasants were happy with and even participated in).

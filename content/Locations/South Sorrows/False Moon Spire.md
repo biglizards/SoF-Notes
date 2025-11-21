@@ -6,11 +6,17 @@ The False Moon is a object of folklore within the South Sorrows. The False Moon 
 
 ## The False Moon
 
-The False Moon sometimes appears in the dreams of those within the South Sorrows. It typically appears as a second moon in the sky, made of gold, a few hundred metres in the air within the Thunder Mountains (the same location of the False Moon Spire).
+The False Moon sometimes appears in the dreams of those within the South Sorrows. It typically appears as a second moon in the sky, sometimes made of gold, sometimes just a vague light indicative of a second moon, a few hundred metres in the air within the Thunder Mountains (the same location of the False Moon Spire).
+
+### In Folklore
+
+The moon is said to be a portal to the afterlife. It is most commonly associated with Bliit (and occasionally Wrucan), gods from the [[old Yrric pantheon]]. 
+
+The land the light of the moon touches is reserved for the dead and should be left uninhabited.
  
 ## The False Moon Spire
 
-The False Moon Spire is a tower of smooth black stone. It was discovered a few years ago (WHEN?) by locals from [[Moli]]. It is known to be of Atavan design.
+The False Moon Spire is a tower of smooth black stone not local to the area. It was discovered a few years ago (WHEN?) by locals from [[Moli]]. It is thought to be of Atavan design due to the style and ancient origin.
 
 The outside of the tower appears to be constructed from continuous solid stone, with no visible brickwork, doors, or windows. It is conjectured that it may be possible to enter the tower through a nearby cave system leading to the back of the tower, or that an entrance may appear during a full moon.
 
@@ -32,15 +38,12 @@ The strength of this psychic effect appears to scale with the fullness of the mo
 
 ### In folklore
 
-The spire is said to be a lighthouse operated by (TODO), a god from the old Yrric pantheon representing (TODO). The light supposedly guides the souls of the dead to their final resting place, and the land the light touches is reserved for the dead and should be left uninhabited.
+The spire has only been recently discovered, but has been incorporated into the myths surrounding the False Moon. It is said to be a lighthouse, guiding the souls of the dead to their final resting place. 
 
 unanswered questions:
-- is the black stone of the tower local to the area? could it have been carved out of the mountains?
 - how tall is the tower?
 - how do you get inside?
 - why are people (and animals) continually drawn to the tower?
 	- what happens to them causing them to disapear?
 - why does the psychic effect get stronger during a full moon?
 - when exactly was the tower discovered?
-- how is it a subject of local folklore (a lighthouse) if it was only recently discovered?
-- how do they know it's of Atavan make?
