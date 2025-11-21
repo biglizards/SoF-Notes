@@ -16,13 +16,13 @@ The land the light of the moon touches is reserved for the dead and should be le
  
 ## The False Moon Spire
 
-The False Moon Spire is a tower of smooth black stone not local to the area. It was discovered a few years ago (WHEN?) by locals from [[Moli]]. It is thought to be of Atavan design due to the style and ancient origin.
+The False Moon Spire is a tower of smooth black stone not local to the area. It was discovered during 150s by locals from [[Moli]]. It is thought to be of Atavan design due to the style and ancient origin.
 
 The outside of the tower appears to be constructed from continuous solid stone, with no visible brickwork, doors, or windows. It is conjectured that it may be possible to enter the tower through a nearby cave system leading to the back of the tower, or that an entrance may appear during a full moon.
 
 At night, a solid, bright green glow can be seen coming from the tower.
 
-A group of scholars, escorted by legionaries, were dispatched from the university of Murga (WHEN?) (two seasons ago, in spring?). They were brought to the tower by a local from Moli, who returned two weeks later (on their request) to bring supplies, and found that they had disappeared without a trace.
+A group of scholars, escorted by legionaries, were dispatched from the university of Murga during spring of 172. They were brought to the tower by a local from Moli, who returned two weeks later (on their request) to bring supplies, and found that they had disappeared without a trace.
 
 The mountains surrounding the tower were described by Tibretto as though they had been hewn by giants, although this is not abnormal for mountains.
 ### Psychic Effects

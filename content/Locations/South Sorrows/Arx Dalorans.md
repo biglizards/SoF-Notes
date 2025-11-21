@@ -1,6 +1,6 @@
 Primary fortification and seat of power for the South Sorrows. Constructed haphazardly in layers, there is a tower and relatively low-lying fort surrounding it.
 
-Currently occupied by the Prefect of the South Sorrows, with a garrison force of 700 legionaries. (REALLY? that seems rather high)
+Currently occupied by the Prefect of the South Sorrows, with a garrison force of 750 legionaries.
 
 ## History
 
