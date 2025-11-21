@@ -16,4 +16,5 @@ She settled down in her new country, climbing military ranks and taking an appre
 
 Character notes:
 - Much to Poleman's chagrin, she is more interested in going home to her family than in partaking in the oh-so-exciting QUEST
-- 
+
+Brought Knut's reliquary from Luruna to the Virkvärg clanhold in Varnoss during the events of [[Companions of Knut]] and [[Companions of Knutsdir]]. Knut's will named her Jarl, splitting the already divided clan even further. She is currently in hiding, slowly gathering political support.

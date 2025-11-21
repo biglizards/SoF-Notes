@@ -10,3 +10,4 @@ you probably want [[The Tower of Sorrow]], which is the notes for the current ca
 
 If you want to contribute (and are in the campaign), please do! either send me a message on discord and i'll probably add it manually, or, if you know git and/or are comfortable with github, i'll add you as a contributor to [the repo](https://github.com/biglizards/SoF-Notes)
 
+ss
