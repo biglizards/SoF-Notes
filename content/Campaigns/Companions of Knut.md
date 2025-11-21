@@ -462,4 +462,6 @@ Jovian wins over the crowd and, after some prevarication, attempts to flee. Guar
 
 Once his friends have safely escaped, Jovian releases Criola, and demands he is executed on the spot. This demand is met, and he is decapitated. Fresh water continually flows from his neck instead of blood, forming a spring which eventually grows so deep his body can no longer be seen. This proves to all watching that he was, undoubtedly, a saint.
 
+---
 
+Campaign continues after a soft reboot in: [[Companions of Knutsdir]]

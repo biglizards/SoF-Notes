@@ -6,7 +6,9 @@
 
 ~115AL: Second war with the Marrowlaw
 
-~122AL: empire adopts Accorder calendar as official
+121AL: Fall of Umbracca, later renamed Varnoss, after a 5 year siege.
+
+122AL: Peace negotiations. empire adopts Accorder calendar as official
 
 who fucking knows: blood moon over the dry coast, birth of 
 

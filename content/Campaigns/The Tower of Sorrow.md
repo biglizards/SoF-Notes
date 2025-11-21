@@ -24,42 +24,14 @@ The Caravaneers are able to offer a better deal, owing to the fact that trading 
 
 ---
 
-We arrive at arx, the fortification where the prefect lives. We ask about the tower we're aiming to take and the surrounding area, and get some info:
+![[Pasted image 20251121163721.png]] *A map of south-east Nivena. The area between the False Moon Spire and the bridge near Arx Dalorans constitutes the South Sorrows.*
 
-false moon spire:
-- the false moon appears as made of gold in people's dreams
-- the spire is said to be the home of (TODO) - one of the old Yrric pantheon
-	- the tower acts kind of like a lighthouse, guiding the souls of the dead to their final resting place
-	- the area within the tower's shadow seems like it should be left uninhabited save for the dead
-- people from places with a direct line of sight to the tower have been abandoning their settlements to go to the tower - they seem to think they will find a better life there
-- people of Moli appear immune to this affect
-- recently the tower was discovered in the same place people reported seeing the false moon by people from Moli
-	- it's partly embedded into the mountain and is made of solid black stone, with no doors
-	- it's known to be of Atavan make
-- an expedition made of scholars from the university of Murga and some local legionaries departed two seasons ago (in spring). they were escorted by a guide from moli
-	- when the guide returned with supplies two weeks later, they found no trace of the expedition
-- Tibretto reported that surrounding mountains looks like it was hewn by giants (but that's not abnormal)
-	- observing it at night he saw a solid, bright green glow from behind one of the peaks, coming from where you'd imagine the tower would be
+We arrive at Arx Dalorans, the fortification where the prefect lives. We ask about the tower we're aiming to take and the surrounding area, and get some info about the [[False Moon Spire]] and the folklore surrounding it, as well as the towns of [[Fonsano]] and [[Cynzoval]].
 
-Fonsano lore:
-- logging town by sotton grove, fortification made of wood (population 200)
-- owned by logging lodge
-	- not great reputation with local peasants
-- reports of deserters in the nearby woods
-	- people are afraid and some are leaving out of fear
-	- legionaries were left but the townsfolk mistrusted them 
-- too many people patrolling
-	- poorly co-ordinated
-	- weapons are scrappy and varied
-- some of the houses partially disassembled to make fortification
+Tibretto, with permission from the Prefect, climbs to the top of the Arx's watchtower to scout the local land. He sees that everyone in Fonsano appears armed with poor quality weapons, and that they had deconstructed some of their houses to form a palisade. He also sees a green glow coming from where we would expect the False Moon Spire to be.
 
-Cynzoval lore:
-- current population is 40, but could house 300
-- quarry up against the mountain range, but no through route to the ester woods
-- seems especially ravaged by the false moon spire
-- has enough food to last the winter, but not enough population to properly function come the spring
+Halfdan does a ritual involving a raven watching him sleep and speaks to some spirits, and sees visions involving:
 
-Halfdan does a ritual involving a raven watching him sleep and speaks to some spirits
 - the colour green (palid, dark, desaturated) gets really bright and is then blocked by something
 - "but this was long, long ago. this dweller of the void left something behind, something that draws in folk even now, something powerful, something to make the meekest into the mightiest hero - something to grant wishes
 - "what dangers await us: only other seekers. the treasure is so valuable, only minds vast like yours and ours know to desire it."
