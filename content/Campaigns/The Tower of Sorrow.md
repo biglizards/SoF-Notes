@@ -69,3 +69,119 @@ We return to the Arx to get further instructions from the Prefect, as there is n
 	- A letter of credit good for 20 silver per week, to pay the raised troops with
 	- 75 silver in cash upon completion
 - We estimate that, since it takes around a day to travel from the Arx to Murga, we could (if everything goes smoothly) raise the army, travel to Fonsano, leave the army as an occupying force, and travel onwards to the False Moon Spire on (or one night after) the full moon, in which with any luck the spire will be open.
+
+---
+
+We travel to Murga, and raise a force of 35 men:
+- a band of shadeling pirates, the Blue Squid's Brood
+- 11 off-duty legionarres (5 bowmen, 6 footmen)
+- 10 marines, the Prima Florriers
+- 8 university students (cavalry)
+
+We march back to Fonsano. During the night, we hear wolves howling, and double the watch and stoke a fire to ward them off. They do not attack, but we lost a goat in the night regardless (presumably it wandered off due to the Spire's influence).
+
+The plan is as follows: two bands of archers approach from west and the south and engage with those on top of the walls. Cavalry would remain at range, patrolling the perimeter to ensure no-one flees into the plains. After firing begins, the footmen charge at the gates and break through, first climbing the walls and finishing off the remaining archers, then sweeping through the town towards various key objectives:
+- the barracks, in which hostages are being held
+- the inn, which is being used as a barracks; and
+- the north of the town, which becomes forested without fortification
+	- if enough enemy combatants escape into the woods they may engage in protracted guerrilla warfare
+
+The plan was executed more-or-less successfully, with few casualties on our side (a few mercs were injured and given hazard pay, notably including TODO NAME, who was sent home).
+
+The south team reached the barracks, where they were met with agitated townsfolk explaining their side of the story: they were being worked to death by guild in the harsh winter, and their pleas for better working conditions had fallen upon deaf ears - they had been driven to violent uprising only out of necessity, rather than greed. The party is sympathetic, and agrees to hold a trial as a way to ease tensions and provide catharsis.
+
+In the trial, the most senior lodge member is beheaded for unusual cruelty and wanton disregard for human life, and the other lodge members are given token punishments. This broadly appeases the townsfolk. An elder explains to the party that the uprising was primarily inspired by three ringleaders:
+- Two legionnaire deserters, one of whom had already been killed.
+	- i think they were partners?
+- A student from Murga, who we are warned is a concerning compelling orator.
+
+Meanwhile, Njall has drawn a circle of blood around the tavern, which contains a considerable number of soldiers and the other deserter ringleader, and instils terror into them. The rest of the party arrives, and we demand that the ringleader is sent out or we'll kill everyone in there (bluffing). Everyone other than the ringleader agrees, and we open the door to him standing in the middle and everyone else cowering around the edges.
+
+Halfdan tries to grapple him and bring him out of the inn (for interrogation), but he resists, shouting something about honour and how we killed his boyfriend that i dont really remember. He escapes Halfdan's grasp, steps in the blood circle, and is frozen solid, shaking with fear. Halfdan, in anger, runs him through.
+
+We head north to the area that
+
+---
+
+Njall reads the diary 
+- "A" has a butterfly mask that they brought with them. Something to do with their personal religion.
+- Something about Adal Nacar
+	- noble name from astarin (carmine isles)
+- names: "G", "V", "I", "A", and "D"
+	- "A" first mentioned on first sight of the tower, all other letters mentioned before that
+- two separate periods - travel log until they get to the tower, then a sketch, then ramblings about geists and dreams and republicanism written in an almost different hand (more frantic, less grace).
+
+path to moli has various dead animals, dead/gored wolves, goat horns embedded in a tree, 7 dead sparrows (crushed). Arrows in trees. A crude falling rock trap contains an inscription in blood: "hunter of day, become prey by night"
+
+weird cult in moli
+- double-sided butterfly mask
+- one of them called ivar
+- at least a dozen
+- moli would prefer if we didn't kill them all
+- trying to do good in their own way
+- old lady scabala went over to their side
+- gauso, cranky old fool, stayed a night and came back
+
+in meet hall:
+- elders ask us to drive out the weird cult for (probably) poaching their cattle for blood rituals
+
+we meet with gauso
+- he's the guide, up to the tower
+- guided the scholars. either 5 or 6, cant remember which
+- when he returned, one of them was dead, surrounded by blood.
+- tower is a curse. anywhere the moss doesn't grow is bad.
+- went to speak with the cult, found the one he recognised as it "smells of dust and book glue"
+	- asked which one of them died on the mountain
+	- "the great change", something about dreams
+- asked about names:
+	- Ivar, leader of cult
+	- Hortenza philosopher,
+	- doesn't remember Adal Nacar
+	- Gustava, strange smell. sharp, singed his nose hairs.
+
+
+--- 
+
+ok sorry i forgot to make notes this session heres some proper nouns
+
+zaryon skavo
+
+metal mask - deaths head moth
+
+peryite cult
+gods are percion and perix
+here called hezarix
+
+dahla
+vahnu
+
+gustava had her eyes taken
+
+---
+
+Party talks with Ivar for a bit and he seems reasonable
+- we ask what his goal is and he talks about Adal Nacar and how he's a normal guy who's stuck in the upper part of the tower somehow and can't leave because the tower is extremely trapped. He communicates with everyone, including a group of 5 dozen cultists, with an insane avatar he calls Herald True Light.
+- He brings out the original butterfly/moth mask made of bronze - it has a significant amount of umbrum in. it used to belong to Adal Nacar but he gave it to Ivar for some reason shortly after they met. Adal Nacar has since gone completely mad due to continual exposure to the false moon without any umbrum.
+	- the bronze symbolises the union of the twin cities of tin and copper and is culturally important to the peryite cult who seek to control both cities
+- He knows and freely admits that the umbral mask protected him from the immortality/insanity combo.
+- He says something that implies he was left outside the tower while everyone else went in
+- He claims he's not particularly interested in the false moon, and just wants to figure out how to become immortal without going mad, and would be friends with us if he thought we'd have a better shot of conquering the tower than Adal Nacar, and we could make him think this by befriending at least one of the other scholars.
+
+MEANWHILE
+
+- Aethild goes to Fonsano to try to get some legionnaires to come to Moli to fight the spire cultists
+- he gets kidnapped by some of Hortenza's men and lead to a barrow out of town where she's set up base
+- she talks with Aethild and reveals her plan: to replicate the false moon and put a copy by every city, with the colour tuned to republican pride to inspire a state of permenant revolution
+- Aethild seems on board and they discuss the tower cultist problem
+
+interesting Hillkrem lore:
+
+Hortenza suggests we lead the cultists up onto a big barrow-type thing south of Fonsano in order to ambush them by collapsing it. She stresses that if the ambush isn't successful, her men would flee safely and ours would probably get killed, and that she would be the first to ascend.
+
+She sends a guy back with Aethild.
+
+Aethild approaches the legionary in charge of Fonsano and immediately blabs about everything that just happened. The legion will remain in Fonsano to guard it and is going to ask around to figure out where Hortenza's guys are based and kill them all eventually once the logging guild thing is sorted.
+
+He _then_ tells Hortenza's scout that actually the Legion knows about her already and will eventually send out guys to kill them all once the logging guild thing is sorted, and that they should therefore vacate their base and come to Moli. He is completely convinced by this, and reaches the only reasonable conclusion: there's a Nivish spy amongst the ranks of Hortenza's men. He suggests that they could set up a temporary base in abandoned buildings in a quarry a little north of Moli.
+
+Aethild says something about the horse and the turtle, the well known fable, to try and dissuade the scout from dealing with the rat before coming to Moli, which has no effect.

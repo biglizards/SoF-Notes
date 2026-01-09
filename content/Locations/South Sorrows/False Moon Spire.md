@@ -10,7 +10,7 @@ The False Moon sometimes appears in the dreams of those within the South Sorrows
 
 ### In Folklore
 
-The moon is said to be a portal to the afterlife. It is most commonly associated with Bliit (and occasionally Wrucan), gods from the [[old Yrric pantheon]]. 
+The moon is said to be a portal to the afterlife. It is most commonly associated with Bliit (and occasionally Wrucan), gods from the [[Old Yrric pantheon]]. 
 
 The land the light of the moon touches is reserved for the dead and should be left uninhabited.
  
